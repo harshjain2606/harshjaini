@@ -1,0 +1,40 @@
+2024-11-09 22:34:36.273 [info] Extension host with pid 14028 started
+2024-11-09 22:34:36.283 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-11-09 22:34:36.323 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-09 22:34:36.325 [info] ExtensionService#_doActivateExtension DivyanshuAgrawal.competitive-programming-helper, startup: true, activationEvent: '*'
+2024-11-09 22:34:36.338 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-11-09 22:34:36.340 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2024-11-09 22:34:36.404 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-09 22:34:36.437 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-09 22:34:36.501 [info] Eager extensions activated
+2024-11-09 22:34:36.502 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-09 22:34:36.504 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-09 22:34:36.513 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2024-11-09 22:34:36.532 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2024-11-09 22:34:36.734 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2024-11-09 22:34:36.735 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-11-09 22:34:36.772 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-11-09 22:34:36.786 [info] ExtensionService#_doActivateExtension mongodb.mongodb-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-11-09 22:34:37.236 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-11-09 23:09:35.071 [info] Extension host terminating: renderer closed the MessagePort
+2024-11-09 23:09:35.114 [info] Extension host with pid 14028 exiting with code 0
+2024-11-09 23:09:35.796 [info] Extension host with pid 17571 started
+2024-11-09 23:09:35.804 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-11-09 23:09:35.835 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-09 23:09:35.837 [info] ExtensionService#_doActivateExtension DivyanshuAgrawal.competitive-programming-helper, startup: true, activationEvent: '*'
+2024-11-09 23:09:35.849 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-11-09 23:09:35.850 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2024-11-09 23:09:35.909 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-09 23:09:35.941 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-09 23:09:36.022 [info] Eager extensions activated
+2024-11-09 23:09:36.026 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-09 23:09:36.028 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-09 23:09:36.038 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2024-11-09 23:09:36.057 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2024-11-09 23:09:36.262 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2024-11-09 23:09:36.263 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-11-09 23:09:36.299 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-11-09 23:09:36.313 [info] ExtensionService#_doActivateExtension mongodb.mongodb-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-11-09 23:09:36.770 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-11-09 23:13:48.532 [info] Extension host terminating: renderer closed the MessagePort
+2024-11-09 23:13:48.542 [info] Extension host with pid 17571 exiting with code 0

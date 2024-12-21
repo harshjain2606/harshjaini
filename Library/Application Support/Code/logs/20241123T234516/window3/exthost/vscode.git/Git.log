@@ -1,0 +1,93 @@
+2024-11-24 10:23:09.328 [info] [main] Log level: Info
+2024-11-24 10:23:09.328 [info] [main] Validating found git in: "/opt/homebrew/bin/git"
+2024-11-24 10:23:09.353 [info] [main] Using git "2.47.0" from "/opt/homebrew/bin/git"
+2024-11-24 10:23:09.353 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-24 10:23:09.354 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-24 10:23:25.227 [info] [main] Log level: Info
+2024-11-24 10:23:25.227 [info] [main] Validating found git in: "/opt/homebrew/bin/git"
+2024-11-24 10:23:25.227 [info] [main] Using git "2.47.0" from "/opt/homebrew/bin/git"
+2024-11-24 10:23:25.227 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-24 10:23:25.227 [info] > git rev-parse --show-toplevel [25ms]
+2024-11-24 10:23:25.227 [info] > git rev-parse --git-dir --git-common-dir [7ms]
+2024-11-24 10:23:25.227 [info] [Model][openRepository] Opened repository: /Users/harshjain/Downloads/FoodPlaza
+2024-11-24 10:23:25.227 [info] > git config --get commit.template [13ms]
+2024-11-24 10:23:25.227 [info] > git rev-parse --show-toplevel [19ms]
+2024-11-24 10:23:25.227 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-24 10:23:25.227 [info] > git fetch [23ms]
+2024-11-24 10:23:25.229 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-24 10:23:25.963 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [734ms]
+2024-11-24 10:23:25.963 [warning] [Git][getBranch] No such branch: master
+2024-11-24 10:23:25.964 [info] > git config --get commit.template [736ms]
+2024-11-24 10:23:25.966 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [739ms]
+2024-11-24 10:23:25.966 [warning] [Git][getBranch] No such branch: master
+2024-11-24 10:23:25.967 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms] (cancelled)
+2024-11-24 10:23:26.002 [info] > git status -z -uall [37ms] (cancelled)
+2024-11-24 10:23:26.003 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [35ms]
+2024-11-24 10:23:26.003 [warning] [Git][getBranch] No such branch: master
+2024-11-24 10:23:26.003 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for master: Error: No such branch: master.
+2024-11-24 10:23:26.003 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [36ms]
+2024-11-24 10:23:26.003 [warning] [Git][getBranch] No such branch: master
+2024-11-24 10:23:26.003 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for master: Error: No such branch: master.
+2024-11-24 10:23:26.003 [info] > git rev-parse --show-toplevel [776ms]
+2024-11-24 10:23:26.010 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-24 10:23:26.011 [info] > git config --get commit.template [11ms]
+2024-11-24 10:23:26.016 [info] > git rev-parse --show-toplevel [8ms]
+2024-11-24 10:23:26.017 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [7ms]
+2024-11-24 10:23:26.017 [warning] [Git][getBranch] No such branch: master
+2024-11-24 10:23:26.026 [info] > git rev-parse --show-toplevel [9ms]
+2024-11-24 10:23:26.027 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+2024-11-24 10:23:26.032 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-24 10:23:26.048 [info] > git rev-parse --show-toplevel [14ms]
+2024-11-24 10:23:26.054 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-24 10:23:26.055 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-24 10:23:26.156 [info] > git status -z -uall [139ms]
+2024-11-24 10:24:15.591 [info] [main] Log level: Info
+2024-11-24 10:24:15.591 [info] [main] Validating found git in: "/opt/homebrew/bin/git"
+2024-11-24 10:24:15.623 [info] [main] Using git "2.47.0" from "/opt/homebrew/bin/git"
+2024-11-24 10:24:15.623 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-24 10:24:16.030 [info] > git rev-parse --show-toplevel [395ms]
+2024-11-24 10:24:16.039 [info] > git rev-parse --git-dir --git-common-dir [7ms]
+2024-11-24 10:24:16.043 [info] [Model][openRepository] Opened repository: /Users/harshjain/e-commerce-project
+2024-11-24 10:24:16.047 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-24 10:24:16.055 [info] > git rev-parse --show-toplevel [10ms]
+2024-11-24 10:24:16.056 [info] > git config --get commit.template [10ms]
+2024-11-24 10:24:16.057 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [9ms]
+2024-11-24 10:24:16.057 [warning] [Git][getBranch] No such branch: master
+2024-11-24 10:24:16.064 [info] > git fetch [21ms]
+2024-11-24 10:24:16.064 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms] (cancelled)
+2024-11-24 10:24:16.067 [info] > git status -z -uall [9ms] (cancelled)
+2024-11-24 10:24:16.067 [info] > git rev-parse --show-toplevel [11ms]
+2024-11-24 10:24:16.069 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-24 10:24:16.069 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-24 10:24:16.073 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [8ms]
+2024-11-24 10:24:16.073 [warning] [Git][getBranch] No such branch: master
+2024-11-24 10:24:16.074 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for master: Error: No such branch: master.
+2024-11-24 10:24:16.074 [info] > git config --get commit.template [8ms]
+2024-11-24 10:24:16.075 [info] > git config --get commit.template [7ms]
+2024-11-24 10:24:16.078 [info] > git rev-parse --show-toplevel [9ms]
+2024-11-24 10:24:16.079 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [10ms]
+2024-11-24 10:24:16.079 [warning] [Git][getBranch] No such branch: master
+2024-11-24 10:24:16.080 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [10ms]
+2024-11-24 10:24:16.080 [warning] [Git][getBranch] No such branch: master
+2024-11-24 10:24:16.085 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-24 10:24:16.086 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-24 10:24:16.086 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2024-11-24 10:24:16.121 [info] > git status -z -uall [42ms]
+2024-11-24 10:24:16.442 [info] > git ls-files --stage -- /Users/harshjain/e-commerce-project/.env [24ms]
+2024-11-24 10:24:16.442 [info] > git show --textconv :.env [26ms]
+2024-11-24 10:24:16.559 [info] > git check-ignore -v -z --stdin [8ms]
+2024-11-24 10:24:17.217 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-24 10:24:17.230 [info] > git config --get commit.template [17ms]
+2024-11-24 10:24:17.232 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [15ms]
+2024-11-24 10:24:17.232 [warning] [Git][getBranch] No such branch: master
+2024-11-24 10:24:17.247 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [13ms]
+2024-11-24 10:24:17.260 [info] > git status -z -uall [27ms]
+2024-11-24 10:24:17.319 [info] > git ls-files --stage -- /Users/harshjain/e-commerce-project/.env [9ms]
+2024-11-24 10:24:17.328 [info] > git show --textconv :.env [8ms]
+2024-11-24 10:24:26.288 [info] > git ls-files --stage -- /Users/harshjain/e-commerce-project/frontend/index.js [11ms]
+2024-11-24 10:24:26.288 [info] > git show --textconv :frontend/index.js [13ms]
+2024-11-24 10:24:26.551 [info] > git ls-files --stage -- /Users/harshjain/e-commerce-project/routes/customer.js [8ms]
+2024-11-24 10:24:26.556 [info] > git show --textconv :routes/customer.js [13ms]
+2024-11-24 10:24:26.777 [info] > git check-ignore -v -z --stdin [7ms]
+2024-11-24 10:24:27.548 [info] > git show --textconv :frontend/index.js [10ms]
+2024-11-24 10:24:27.548 [info] > git ls-files --stage -- /Users/harshjain/e-commerce-project/frontend/index.js [10ms]

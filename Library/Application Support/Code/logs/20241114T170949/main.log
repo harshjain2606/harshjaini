@@ -1,0 +1,11 @@
+2024-11-14 17:09:50.188 [info] update#setState idle
+2024-11-14 17:09:50.955 [error] vscode-file: Refused to load resource /private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/8E503BCE-4236-44BB-934F-47D02C034273/d/Visual Studio Code.app/Contents/Resources/app/extensions/theme-seti/icons/seti.woff from vscode-file: protocol (original URL: vscode-file://vscode-app/private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/8E503BCE-4236-44BB-934F-47D02C034273/d/Visual%20Studio%20Code.app/Contents/Resources/app/extensions/theme-seti/icons/seti.woff)
+2024-11-14 17:10:20.075 [info] update#setState checking for updates
+2024-11-14 17:10:20.481 [error] UpdateService error: Cannot update while running on a read-only volume. The application is on a read-only volume. Please move the application and try again. If you're on macOS Sierra or later, you'll need to move the application out of the Downloads directory. See https://github.com/Squirrel/Squirrel.Mac/issues/182 for more information.
+2024-11-14 17:10:20.481 [info] update#setState idle
+2024-11-14 17:10:43.417 [info] Extension host with pid 56638 exited with code: 0, signal: unknown.
+2024-11-14 18:00:56.269 [error] [UtilityProcessWorker]: terminated unexpectedly with code 33418624, signal: unknown
+2024-11-14 18:00:56.270 [info] Extension host with pid 56717 exited with code: 0, signal: unknown.
+2024-11-14 18:10:19.968 [info] update#setState checking for updates
+2024-11-14 18:10:20.252 [error] UpdateService error: Cannot update while running on a read-only volume. The application is on a read-only volume. Please move the application and try again. If you're on macOS Sierra or later, you'll need to move the application out of the Downloads directory. See https://github.com/Squirrel/Squirrel.Mac/issues/182 for more information.
+2024-11-14 18:10:20.252 [info] update#setState idle

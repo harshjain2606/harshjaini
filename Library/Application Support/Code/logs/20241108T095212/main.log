@@ -1,0 +1,54 @@
+2024-11-08 09:52:12.874 [info] update#setState idle
+2024-11-08 09:52:13.588 [error] vscode-file: Refused to load resource /private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/9D5157EF-E3F5-4E18-ACA0-FECD4053757B/d/Visual Studio Code.app/Contents/Resources/app/extensions/theme-seti/icons/seti.woff from vscode-file: protocol (original URL: vscode-file://vscode-app/private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/9D5157EF-E3F5-4E18-ACA0-FECD4053757B/d/Visual%20Studio%20Code.app/Contents/Resources/app/extensions/theme-seti/icons/seti.woff)
+2024-11-08 09:52:41.868 [info] Extension host with pid 1320 exited with code: 0, signal: unknown.
+2024-11-08 09:52:42.755 [info] update#setState checking for updates
+2024-11-08 09:52:43.034 [error] UpdateService error: Cannot update while running on a read-only volume. The application is on a read-only volume. Please move the application and try again. If you're on macOS Sierra or later, you'll need to move the application out of the Downloads directory. See https://github.com/Squirrel/Squirrel.Mac/issues/182 for more information.
+2024-11-08 09:52:43.035 [info] update#setState idle
+2024-11-08 10:01:06.934 [warning] No ptyHost heartbeat after 6 seconds
+2024-11-08 10:52:42.543 [info] update#setState checking for updates
+2024-11-08 10:52:42.814 [error] UpdateService error: Cannot update while running on a read-only volume. The application is on a read-only volume. Please move the application and try again. If you're on macOS Sierra or later, you'll need to move the application out of the Downloads directory. See https://github.com/Squirrel/Squirrel.Mac/issues/182 for more information.
+2024-11-08 10:52:42.815 [info] update#setState idle
+2024-11-08 11:13:00.056 [info] Extension host with pid 1880 exited with code: 0, signal: unknown.
+2024-11-08 11:13:00.233 [error] [UtilityProcessWorker]: terminated unexpectedly with code 32, signal: unknown
+2024-11-08 11:20:13.700 [info] Extension host with pid 1957 exited with code: 0, signal: unknown.
+2024-11-08 11:20:13.749 [error] [UtilityProcessWorker]: terminated unexpectedly with code 44158848, signal: unknown
+2024-11-08 11:52:42.254 [info] update#setState checking for updates
+2024-11-08 11:52:42.531 [error] UpdateService error: Cannot update while running on a read-only volume. The application is on a read-only volume. Please move the application and try again. If you're on macOS Sierra or later, you'll need to move the application out of the Downloads directory. See https://github.com/Squirrel/Squirrel.Mac/issues/182 for more information.
+2024-11-08 11:52:42.532 [info] update#setState idle
+2024-11-08 12:52:42.357 [info] update#setState checking for updates
+2024-11-08 12:52:42.625 [error] UpdateService error: Cannot update while running on a read-only volume. The application is on a read-only volume. Please move the application and try again. If you're on macOS Sierra or later, you'll need to move the application out of the Downloads directory. See https://github.com/Squirrel/Squirrel.Mac/issues/182 for more information.
+2024-11-08 12:52:42.625 [info] update#setState idle
+2024-11-08 14:03:28.383 [info] update#setState checking for updates
+2024-11-08 14:03:28.659 [error] UpdateService error: Cannot update while running on a read-only volume. The application is on a read-only volume. Please move the application and try again. If you're on macOS Sierra or later, you'll need to move the application out of the Downloads directory. See https://github.com/Squirrel/Squirrel.Mac/issues/182 for more information.
+2024-11-08 14:03:28.660 [info] update#setState idle
+2024-11-08 15:03:28.167 [info] update#setState checking for updates
+2024-11-08 15:03:28.422 [error] UpdateService error: Cannot update while running on a read-only volume. The application is on a read-only volume. Please move the application and try again. If you're on macOS Sierra or later, you'll need to move the application out of the Downloads directory. See https://github.com/Squirrel/Squirrel.Mac/issues/182 for more information.
+2024-11-08 15:03:28.423 [info] update#setState idle
+2024-11-08 16:03:27.986 [info] update#setState checking for updates
+2024-11-08 16:03:28.279 [error] UpdateService error: Cannot update while running on a read-only volume. The application is on a read-only volume. Please move the application and try again. If you're on macOS Sierra or later, you'll need to move the application out of the Downloads directory. See https://github.com/Squirrel/Squirrel.Mac/issues/182 for more information.
+2024-11-08 16:03:28.279 [info] update#setState idle
+2024-11-08 17:03:28.001 [info] update#setState checking for updates
+2024-11-08 17:03:28.290 [error] UpdateService error: Cannot update while running on a read-only volume. The application is on a read-only volume. Please move the application and try again. If you're on macOS Sierra or later, you'll need to move the application out of the Downloads directory. See https://github.com/Squirrel/Squirrel.Mac/issues/182 for more information.
+2024-11-08 17:03:28.291 [info] update#setState idle
+2024-11-08 18:03:27.841 [info] update#setState checking for updates
+2024-11-08 18:03:28.158 [error] UpdateService error: Cannot update while running on a read-only volume. The application is on a read-only volume. Please move the application and try again. If you're on macOS Sierra or later, you'll need to move the application out of the Downloads directory. See https://github.com/Squirrel/Squirrel.Mac/issues/182 for more information.
+2024-11-08 18:03:28.160 [info] update#setState idle
+2024-11-08 19:03:27.689 [info] update#setState checking for updates
+2024-11-08 19:03:28.021 [error] UpdateService error: Cannot update while running on a read-only volume. The application is on a read-only volume. Please move the application and try again. If you're on macOS Sierra or later, you'll need to move the application out of the Downloads directory. See https://github.com/Squirrel/Squirrel.Mac/issues/182 for more information.
+2024-11-08 19:03:28.022 [info] update#setState idle
+2024-11-08 20:03:27.474 [info] update#setState checking for updates
+2024-11-08 20:03:27.769 [error] UpdateService error: Cannot update while running on a read-only volume. The application is on a read-only volume. Please move the application and try again. If you're on macOS Sierra or later, you'll need to move the application out of the Downloads directory. See https://github.com/Squirrel/Squirrel.Mac/issues/182 for more information.
+2024-11-08 20:03:27.769 [info] update#setState idle
+2024-11-08 20:22:37.179 [warning] No ptyHost heartbeat after 6 seconds
+2024-11-08 21:11:28.180 [info] update#setState checking for updates
+2024-11-08 21:11:28.685 [error] UpdateService error: Cannot update while running on a read-only volume. The application is on a read-only volume. Please move the application and try again. If you're on macOS Sierra or later, you'll need to move the application out of the Downloads directory. See https://github.com/Squirrel/Squirrel.Mac/issues/182 for more information.
+2024-11-08 21:11:28.685 [info] update#setState idle
+2024-11-08 21:47:24.766 [warning] No ptyHost heartbeat after 6 seconds
+2024-11-08 22:21:34.917 [info] update#setState checking for updates
+2024-11-08 22:21:35.268 [error] UpdateService error: Cannot update while running on a read-only volume. The application is on a read-only volume. Please move the application and try again. If you're on macOS Sierra or later, you'll need to move the application out of the Downloads directory. See https://github.com/Squirrel/Squirrel.Mac/issues/182 for more information.
+2024-11-08 22:21:35.268 [info] update#setState idle
+2024-11-08 23:11:39.095 [warning] No ptyHost heartbeat after 6 seconds
+2024-11-08 23:23:20.285 [info] update#setState checking for updates
+2024-11-08 23:23:20.583 [error] UpdateService error: Cannot update while running on a read-only volume. The application is on a read-only volume. Please move the application and try again. If you're on macOS Sierra or later, you'll need to move the application out of the Downloads directory. See https://github.com/Squirrel/Squirrel.Mac/issues/182 for more information.
+2024-11-08 23:23:20.583 [info] update#setState idle
+2024-11-08 23:23:36.833 [info] Extension host with pid 6744 exited with code: 0, signal: unknown.

@@ -1,0 +1,16 @@
+2024-11-24 10:27:10.162 [info] Started local extension host with pid 4120.
+2024-11-24 10:27:10.350 [info] Settings Sync: Updating due to initialize
+2024-11-24 10:27:10.350 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-24 10:27:10.350 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-24 10:27:10.470 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: pug
+2024-11-24 10:27:10.473 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: sass
+2024-11-24 10:27:10.473 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: stylus
+2024-11-24 10:27:12.764 [info] [perf] Render performance baseline is 16ms
+2024-11-24 10:27:48.130 [info] Started local extension host with pid 4176.
+2024-11-24 10:27:48.314 [info] Settings Sync: Updating due to initialize
+2024-11-24 10:27:48.314 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-24 10:27:48.314 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-24 10:27:48.408 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: pug
+2024-11-24 10:27:48.408 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: sass
+2024-11-24 10:27:48.408 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: stylus
+2024-11-24 10:27:50.716 [info] [perf] Render performance baseline is 17ms

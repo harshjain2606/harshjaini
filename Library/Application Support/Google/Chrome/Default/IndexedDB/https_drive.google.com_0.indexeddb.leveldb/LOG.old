@@ -1,0 +1,29 @@
+2024/11/22-20:05:37.275 a907 Reusing MANIFEST /Users/harshjain/Library/Application Support/Google/Chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/22-20:05:37.276 a907 Recovering log #125
+2024/11/22-20:05:37.277 a907 Reusing old log /Users/harshjain/Library/Application Support/Google/Chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000125.log 
+2024/11/22-20:05:41.158 8603 Level-0 table #150: started
+2024/11/22-20:05:41.175 8603 Level-0 table #150: 1658855 bytes OK
+2024/11/22-20:05:41.184 8603 Delete type=0 #125
+2024/11/22-20:05:41.188 8603 Compacting 1@0 + 0@1 files
+2024/11/22-20:05:41.203 8603 Generated table #151@0: 7213 keys, 1454141 bytes
+2024/11/22-20:05:41.208 8603 Generated table #152@0: 1762 keys, 26777 bytes
+2024/11/22-20:05:41.208 8603 Compacted 1@0 + 0@1 files => 1480918 bytes
+2024/11/22-20:05:41.214 8603 compacted to: files[ 0 2 13 0 0 0 0 ]
+2024/11/22-20:05:41.214 8603 Delete type=2 #150
+2024/11/22-20:05:41.217 8603 Compacting 1@1 + 1@2 files
+2024/11/22-20:05:41.239 8603 Generated table #153@1: 26482 keys, 1362054 bytes
+2024/11/22-20:05:41.239 8603 Compacted 1@1 + 1@2 files => 1362054 bytes
+2024/11/22-20:05:41.245 8603 compacted to: files[ 0 1 13 0 0 0 0 ]
+2024/11/22-20:05:41.245 8603 Delete type=2 #152
+2024/11/22-20:05:41.245 8603 Delete type=2 #147
+2024/11/22-20:05:41.245 f703 Level-0 table #155: started
+2024/11/22-20:05:41.259 f703 Level-0 table #155: 1835137 bytes OK
+2024/11/22-20:05:41.264 f703 Delete type=0 #149
+2024/11/22-20:05:41.266 8603 Compacting 1@0 + 1@1 files
+2024/11/22-20:05:41.290 8603 Generated table #156@0: 11544 keys, 2137400 bytes
+2024/11/22-20:05:41.303 8603 Generated table #157@0: 1229 keys, 1105561 bytes
+2024/11/22-20:05:41.309 8603 Generated table #158@0: 1390 keys, 27194 bytes
+2024/11/22-20:05:41.309 8603 Compacted 1@0 + 1@1 files => 3270155 bytes
+2024/11/22-20:05:41.316 8603 compacted to: files[ 0 3 13 0 0 0 0 ]
+2024/11/22-20:05:41.316 8603 Delete type=2 #155
+2024/11/22-20:05:41.316 8603 Delete type=2 #151

@@ -1,0 +1,29 @@
+file:///Users/harshjain/ecommerce-project/ecommerce-frontend/src/components/AdminDashboard.js {"mtime":1732426799721,"ctime":1732426799721,"size":0,"etag":"3dcejsdon0","orphaned":false,"typeId":""}
+import React, { useEffect, useState } from 'react';
+import API from '../api/api';
+
+const AdminDashboard = () => {
+  const [orders, setOrders] = useState([]);
+
+  useEffect(() => {
+    const fetchOrders = async () => {
+      const { data } = await API.get('/admin/orders');
+      setOrders(data);
+    };
+    fetchOrders();
+  }, []);
+
+  return (
+    <div>
+      <h2>Admin Dashboard</h2>
+      {orders.map((order) => (
+        <div key={order._id}>
+          <p>Order ID: {order._id}</p>
+          <p>Status: {order.status}</p>
+        </div>
+      ))}
+    </div>
+  );
+};
+
+export default AdminDashboard;

@@ -1,0 +1,67 @@
+2024-11-14 17:09:51.745 [info] [main] Log level: Info
+2024-11-14 17:09:51.756 [info] [main] Validating found git in: "/opt/homebrew/bin/git"
+2024-11-14 17:09:51.902 [info] [main] Using git "2.47.0" from "/opt/homebrew/bin/git"
+2024-11-14 17:09:51.902 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-14 17:09:52.733 [info] > git rev-parse --show-toplevel [826ms]
+2024-11-14 17:09:52.838 [info] > git rev-parse --git-dir --git-common-dir [26ms]
+2024-11-14 17:09:52.843 [info] [Model][openRepository] Opened repository: /Users/harshjain/Downloads
+2024-11-14 17:09:52.863 [info] > git config --get commit.template [18ms]
+2024-11-14 17:09:52.864 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-14 17:09:52.865 [info] > git rev-parse --show-toplevel [19ms]
+2024-11-14 17:09:52.873 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [8ms]
+2024-11-14 17:09:52.873 [warning] [Git][getBranch] No such branch: main
+2024-11-14 17:09:52.876 [info] > git rev-parse --show-toplevel [9ms]
+2024-11-14 17:09:52.883 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+2024-11-14 17:09:52.888 [info] > git rev-parse --show-toplevel [8ms]
+2024-11-14 17:09:52.897 [info] > git rev-parse --show-toplevel [8ms]
+2024-11-14 17:09:52.898 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-14 17:09:53.066 [info] > git status -z -uall [192ms]
+2024-11-14 17:09:53.102 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-14 17:09:53.108 [info] > git config --get commit.template [21ms]
+2024-11-14 17:09:53.108 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [23ms]
+2024-11-14 17:09:53.108 [warning] [Git][getBranch] No such branch: main
+2024-11-14 17:09:53.109 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for main: Error: No such branch: main.
+2024-11-14 17:09:53.110 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [9ms]
+2024-11-14 17:09:53.110 [warning] [Git][getBranch] No such branch: main
+2024-11-14 17:09:53.118 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+2024-11-14 17:09:53.253 [info] > git status -z -uall [142ms]
+2024-11-14 17:09:55.271 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [12ms]
+2024-11-14 17:09:55.271 [info] fatal: bad revision 'refs/heads/main'
+2024-11-14 17:09:55.271 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["refs/heads/main"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/heads/main'\n"
+}
+2024-11-14 17:09:55.908 [info] > git check-ignore -v -z --stdin [13ms]
+2024-11-14 17:10:17.568 [info] > git check-ignore -v -z --stdin [35ms]
+2024-11-14 17:10:33.952 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [26ms]
+2024-11-14 17:10:33.952 [info] fatal: bad revision 'refs/heads/main'
+2024-11-14 17:10:33.952 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["refs/heads/main"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/heads/main'\n"
+}
+2024-11-14 17:10:35.603 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [8ms]
+2024-11-14 17:10:35.603 [info] fatal: bad revision 'refs/heads/main'
+2024-11-14 17:10:35.603 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["refs/heads/main"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/heads/main'\n"
+}
+2024-11-14 17:10:44.251 [info] [main] Log level: Info
+2024-11-14 17:10:44.252 [info] [main] Validating found git in: "/opt/homebrew/bin/git"
+2024-11-14 17:10:44.277 [info] [main] Using git "2.47.0" from "/opt/homebrew/bin/git"
+2024-11-14 17:10:44.277 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-14 17:10:44.289 [info] > git rev-parse --show-toplevel [8ms]
+2024-11-14 17:10:45.069 [info] > git rev-parse --show-toplevel [779ms]
+2024-11-14 17:10:45.079 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-14 17:10:45.085 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-14 17:10:45.092 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-14 17:10:45.098 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-14 17:10:45.105 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-14 17:10:45.113 [info] > git rev-parse --show-toplevel [8ms]
+2024-11-14 17:10:45.114 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (1), unsafe repositories (0)
+2024-11-14 17:10:46.195 [info] > git rev-parse --show-toplevel [18ms]

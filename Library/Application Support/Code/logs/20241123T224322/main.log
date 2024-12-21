@@ -1,0 +1,7 @@
+2024-11-23 22:43:22.652 [info] update#setState idle
+2024-11-23 22:43:52.547 [info] update#setState checking for updates
+2024-11-23 22:43:52.798 [info] update#setState idle
+2024-11-23 22:45:06.537 [error] [UtilityProcessWorker]: terminated unexpectedly with code 200, signal: unknown
+2024-11-23 22:45:06.539 [info] Extension host with pid 67785 exited with code: 0, signal: unknown.
+2024-11-23 23:39:36.499 [info] Extension host with pid 67885 exited with code: 0, signal: unknown.
+2024-11-23 23:39:36.756 [error] [UtilityProcessWorker]: terminated unexpectedly with code 27144936, signal: unknown

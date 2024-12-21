@@ -1,0 +1,65 @@
+2024-11-23 23:45:17.441 [info] update#setState idle
+2024-11-23 23:45:46.540 [info] update#setState checking for updates
+2024-11-23 23:45:46.740 [info] update#setState idle
+2024-11-24 00:50:47.010 [info] update#setState checking for updates
+2024-11-24 00:50:47.853 [info] update#setState idle
+2024-11-24 00:51:11.897 [info] Extension host with pid 1217 exited with code: 0, signal: unknown.
+2024-11-24 00:51:11.900 [error] [UtilityProcessWorker]: terminated unexpectedly with code 1868386464, signal: unknown
+2024-11-24 01:07:54.806 [warning] No ptyHost heartbeat after 6 seconds
+2024-11-24 01:54:08.613 [info] update#setState checking for updates
+2024-11-24 01:54:09.025 [info] update#setState idle
+2024-11-24 02:10:00.347 [warning] No ptyHost heartbeat after 6 seconds
+2024-11-24 02:27:07.143 [warning] No ptyHost heartbeat after 6 seconds
+2024-11-24 02:42:45.030 [warning] No ptyHost heartbeat after 6 seconds
+2024-11-24 02:52:16.705 [warning] No ptyHost heartbeat after 6 seconds
+2024-11-24 03:07:38.784 [info] update#setState checking for updates
+2024-11-24 03:07:39.172 [info] update#setState idle
+2024-11-24 04:10:21.159 [info] update#setState checking for updates
+2024-11-24 04:10:21.427 [info] update#setState idle
+2024-11-24 04:26:42.896 [warning] No ptyHost heartbeat after 6 seconds
+2024-11-24 04:43:03.608 [warning] No ptyHost heartbeat after 6 seconds
+2024-11-24 04:54:17.283 [warning] No ptyHost heartbeat after 6 seconds
+2024-11-24 05:25:01.562 [info] update#setState checking for updates
+2024-11-24 05:25:01.564 [warning] No ptyHost heartbeat after 6 seconds
+2024-11-24 05:25:03.000 [info] update#setState idle
+2024-11-24 05:41:29.947 [warning] No ptyHost heartbeat after 6 seconds
+2024-11-24 05:55:18.204 [warning] No ptyHost heartbeat after 6 seconds
+2024-11-24 06:13:06.279 [warning] No ptyHost heartbeat after 6 seconds
+2024-11-24 06:30:37.565 [warning] No ptyHost heartbeat after 6 seconds
+2024-11-24 06:30:37.565 [info] update#setState checking for updates
+2024-11-24 06:30:38.355 [info] update#setState idle
+2024-11-24 06:45:49.840 [warning] No ptyHost heartbeat after 6 seconds
+2024-11-24 07:13:26.583 [warning] No ptyHost heartbeat after 6 seconds
+2024-11-24 07:30:42.735 [warning] No ptyHost heartbeat after 6 seconds
+2024-11-24 07:30:42.735 [info] update#setState checking for updates
+2024-11-24 07:30:43.084 [info] update#setState idle
+2024-11-24 07:48:07.291 [warning] No ptyHost heartbeat after 6 seconds
+2024-11-24 07:57:17.045 [warning] No ptyHost heartbeat after 6 seconds
+2024-11-24 08:27:18.831 [warning] No ptyHost heartbeat after 6 seconds
+2024-11-24 08:34:27.576 [info] update#setState checking for updates
+2024-11-24 08:34:27.585 [error] UpdateService error: The internet connection appears to be offline.
+2024-11-24 08:34:27.585 [info] update#setState idle
+2024-11-24 09:34:27.356 [info] update#setState checking for updates
+2024-11-24 09:34:27.544 [info] update#setState idle
+2024-11-24 09:57:53.068 [error] [UtilityProcessWorker]: terminated unexpectedly with code 42089472, signal: unknown
+2024-11-24 09:57:53.069 [info] Extension host with pid 3196 exited with code: 0, signal: unknown.
+2024-11-24 10:22:56.967 [info] Extension host with pid 3211 exited with code: 0, signal: unknown.
+2024-11-24 10:22:56.989 [error] [UtilityProcessWorker]: terminated unexpectedly with code 1868386464, signal: unknown
+2024-11-24 10:23:24.347 [info] Extension host with pid 3605 exited with code: 0, signal: unknown.
+2024-11-24 10:24:14.015 [error] [UtilityProcessWorker]: terminated unexpectedly with code 28078248, signal: unknown
+2024-11-24 10:24:14.021 [info] Extension host with pid 3617 exited with code: 0, signal: unknown.
+2024-11-24 10:24:30.961 [info] Extension host with pid 3676 exited with code: 0, signal: unknown.
+2024-11-24 10:24:30.962 [error] [UtilityProcessWorker]: terminated unexpectedly with code 1868386528, signal: unknown
+2024-11-24 10:25:30.228 [error] [UtilityProcessWorker]: terminated unexpectedly with code 32, signal: unknown
+2024-11-24 10:25:30.229 [info] Extension host with pid 3785 exited with code: 0, signal: unknown.
+2024-11-24 10:25:46.028 [info] Extension host with pid 3935 exited with code: 0, signal: unknown.
+2024-11-24 10:25:46.029 [error] [UtilityProcessWorker]: terminated unexpectedly with code 35983744, signal: unknown
+2024-11-24 10:26:47.877 [error] [UtilityProcessWorker]: terminated unexpectedly with code 5380049, signal: unknown
+2024-11-24 10:26:47.877 [info] Extension host with pid 4018 exited with code: 0, signal: unknown.
+2024-11-24 10:27:06.728 [info] Extension host with pid 4032 exited with code: 0, signal: unknown.
+2024-11-24 10:27:06.729 [error] [UtilityProcessWorker]: terminated unexpectedly with code 1868386464, signal: unknown
+2024-11-24 10:27:47.868 [info] Extension host with pid 4120 exited with code: 0, signal: unknown.
+2024-11-24 10:27:47.868 [error] [UtilityProcessWorker]: terminated unexpectedly with code 51991816, signal: unknown
+2024-11-24 10:34:27.282 [info] update#setState checking for updates
+2024-11-24 10:34:27.455 [info] update#setState idle
+2024-11-24 11:18:33.414 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

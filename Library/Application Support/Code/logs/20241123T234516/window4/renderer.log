@@ -1,0 +1,33 @@
+2024-11-24 10:24:33.207 [info] Started local extension host with pid 3785.
+2024-11-24 10:24:33.393 [info] Settings Sync: Updating due to initialize
+2024-11-24 10:24:33.393 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-24 10:24:33.393 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-24 10:24:33.512 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: pug
+2024-11-24 10:24:33.512 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: sass
+2024-11-24 10:24:33.512 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: stylus
+2024-11-24 10:24:35.816 [info] [perf] Render performance baseline is 20ms
+2024-11-24 10:25:30.616 [info] Started local extension host with pid 3935.
+2024-11-24 10:25:30.744 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: pug
+2024-11-24 10:25:30.744 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: sass
+2024-11-24 10:25:30.744 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: stylus
+2024-11-24 10:25:31.126 [info] Settings Sync: Updating due to initialize
+2024-11-24 10:25:31.126 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-24 10:25:31.126 [info] Settings Sync: Authentication providers updated []
+2024-11-24 10:25:31.200 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-24 10:25:31.200 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-24 10:25:31.200 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-24 10:25:31.200 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-24 10:25:31.200 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-24 10:25:31.200 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-24 10:25:31.200 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-24 10:25:31.201 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-24 10:25:31.218 [info] Settings Sync: Updating due to declared authentication providers changed
+2024-11-24 10:25:31.218 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-24 10:25:31.218 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-24 10:25:31.218 [info] Settings Sync: Updating due to declared authentication providers changed
+2024-11-24 10:25:31.218 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-24 10:25:31.218 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-24 10:25:31.708 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-24 10:25:31.709 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-24 10:25:33.140 [info] [perf] Render performance baseline is 16ms
+2024-11-24 10:25:45.905 [warning] [backup tracker] suspended, ignoring unregister event file:///Users/harshjain/e-commerce-project/package.json 

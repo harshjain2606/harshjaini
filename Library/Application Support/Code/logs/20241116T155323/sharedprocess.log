@@ -1,0 +1,9 @@
+2024-11-16 15:53:28.319 [info] Getting Manifest... bradlc.vscode-tailwindcss
+2024-11-16 15:53:28.413 [info] Installing extension: bradlc.vscode-tailwindcss {"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/Users/harshjain/.vscode/extensions/extensions.json","path":"/Users/harshjain/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-16 15:53:29.731 [info] Extension signature verification result for bradlc.vscode-tailwindcss: Success. Executed: true. Duration: 701ms.
+2024-11-16 15:53:29.780 [info] Extracted extension to file:///Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.14: bradlc.vscode-tailwindcss
+2024-11-16 15:53:29.787 [info] Renamed to /Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.14
+2024-11-16 15:53:29.795 [info] Marked extension as uninstalled bradlc.vscode-tailwindcss-0.12.13
+2024-11-16 15:53:29.797 [info] Extension installed successfully: bradlc.vscode-tailwindcss vscode-userdata:/Users/harshjain/.vscode/extensions/extensions.json
+2024-11-16 21:46:05.452 [error] [network] #409: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_TIMED_OUT
+2024-11-16 23:50:55.015 [error] [network] #458: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_TIMED_OUT

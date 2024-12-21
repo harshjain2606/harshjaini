@@ -1,0 +1,35 @@
+file:///Users/harshjain/ecommerce-project/ecommerce-frontend/src/App.js {"mtime":1732426716235,"ctime":1732426713167,"size":528,"etag":"3dcejp1gsh1","orphaned":false,"typeId":""}
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Login from './components/Login';
+import AdminDashboard from './components/AdminDashboard';
+import AddProduct from './components/AddProduct';
+import PrivateRoute from './routes/PrivateRoute';
+
+const App = () => {
+  return (
+    <Router>
+      <Routes>
+        <Route path="/login" element={<Login />} />
+        <Route
+          path="/admin"
+          element={
+            <PrivateRoute role="admin">
+              <AdminDashboard />
+            </PrivateRoute>
+          }
+        />
+        <Route
+          path="/seller/add-product"
+          element={
+            <PrivateRoute role="seller">
+              <AddProduct />
+            </PrivateRoute>
+          }
+        />
+      </Routes>
+    </Router>
+  );
+};
+
+export default App;

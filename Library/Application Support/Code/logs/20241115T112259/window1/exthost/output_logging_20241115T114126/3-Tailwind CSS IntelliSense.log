@@ -1,0 +1,95 @@
+Locating server…
+Booting server...
+Setting up server…
+Listening for messages…
+Searching for Tailwind CSS projects in the workspace's folders.
+{"tailwind":{"version":"3.4.4","features":["layer:base","separator:root","content-list","jit","css-at-config-as-project","relative-content-paths","transpiled-configs"],"isDefaultVersion":true}}
+{"tailwind":{"version":"3.4.4","features":["layer:base","separator:root","content-list","jit","css-at-config-as-project","relative-content-paths","transpiled-configs"],"isDefaultVersion":true}}
+[Global] Creating projects: [{"folder":"/Users/harshjain/Downloads/Find-Best-main","config":"/Users/harshjain/Downloads/Find-Best-main/Frontend/tailwind.config.js","selectors":[{"pattern":"/Users/harshjain/Downloads/Find-Best-main/Frontend/tailwind.config.js","priority":0},{"pattern":"/Users/harshjain/Downloads/Find-Best-main/Frontend/src/**/*.{js,jsx,ts,tsx}","priority":1},{"pattern":"/Users/harshjain/Downloads/Find-Best-main/Frontend/**","priority":3},{"pattern":"/Users/harshjain/Downloads/Find-Best-main/**","priority":5}],"user":false,"tailwind":{"version":"3.4.4","features":["layer:base","separator:root","content-list","jit","css-at-config-as-project","relative-content-paths","transpiled-configs"],"isDefaultVersion":true}}]
+[Global] Preparing projects...
+[Global] Adding watch patterns: /Users/harshjain/Downloads/Find-Best-main/Frontend/tailwind.config.js, /Users/harshjain/Downloads/Find-Best-main/Frontend, /Users/harshjain/Downloads/Find-Best-main
+[Global] Initializing projects...
+[Global] Initialized 0 projects
+[Frontend/tailwind.config.js] Initializing...
+[Error - 11:41:47] Error: Can't resolve 'tailwindcss' in '/Users/harshjain/Downloads/Find-Best-main/Frontend'
+    at p (/Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.13/dist/tailwindServer.js:130:7155)
+    at /Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.13/dist/tailwindServer.js:131:713
+    at /Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.13/dist/tailwindServer.js:134:405
+    at eval (eval at create (/Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.13/dist/tailwindServer.js:5:78), <anonymous>:15:1)
+    at /Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.13/dist/tailwindServer.js:134:405
+    at eval (eval at create (/Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.13/dist/tailwindServer.js:5:78), <anonymous>:27:1)
+    at /Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.13/dist/tailwindServer.js:134:7916
+    at /Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.13/dist/tailwindServer.js:134:405
+    at eval (eval at create (/Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.13/dist/tailwindServer.js:5:78), <anonymous>:15:1)
+    at /Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.13/dist/tailwindServer.js:134:405 {
+  details: "resolve 'tailwindcss' in '/Users/harshjain/Downloads/Find-Best-main/Frontend'\n" +
+    '  Parsed request is a module\n' +
+    '  using description file: /Users/harshjain/Downloads/Find-Best-main/Frontend/package.json (relative path: .)\n' +
+    '    resolve as module\n' +
+    "      /Users/harshjain/Downloads/Find-Best-main/Frontend/node_modules doesn't exist or is not a directory\n" +
+    "      /Users/harshjain/Downloads/Find-Best-main/node_modules doesn't exist or is not a directory\n" +
+    "      /Users/harshjain/Downloads/node_modules doesn't exist or is not a directory\n" +
+    "      /Users/harshjain/node_modules doesn't exist or is not a directory\n" +
+    "      /Users/node_modules doesn't exist or is not a directory\n" +
+    "      /node_modules doesn't exist or is not a directory"
+}
+[Frontend/tailwind.config.js] Failed to load workspace modules.
+[Frontend/tailwind.config.js] Using bundled version of `tailwindcss`: v3.4.4
+[Frontend/tailwind.config.js] Using bundled version of `postcss`: v8.4.31
+[Frontend/tailwind.config.js] Building...
+[Frontend/tailwind.config.js] File created: /Users/harshjain/Downloads/Find-Best-main/package-lock.json
+[Frontend/tailwind.config.js] Initializing...
+[Error - 11:42:50] Error: Can't resolve 'tailwindcss' in '/Users/harshjain/Downloads/Find-Best-main/Frontend'
+    at p (/Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.13/dist/tailwindServer.js:130:7155)
+    at /Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.13/dist/tailwindServer.js:131:713
+    at /Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.13/dist/tailwindServer.js:134:405
+    at eval (eval at create (/Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.13/dist/tailwindServer.js:5:78), <anonymous>:15:1)
+    at /Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.13/dist/tailwindServer.js:134:405
+    at eval (eval at create (/Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.13/dist/tailwindServer.js:5:78), <anonymous>:27:1)
+    at /Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.13/dist/tailwindServer.js:134:7916
+    at /Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.13/dist/tailwindServer.js:134:405
+    at eval (eval at create (/Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.13/dist/tailwindServer.js:5:78), <anonymous>:15:1)
+    at /Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.13/dist/tailwindServer.js:134:405 {
+  details: "resolve 'tailwindcss' in '/Users/harshjain/Downloads/Find-Best-main/Frontend'\n" +
+    '  Parsed request is a module\n' +
+    '  using description file: /Users/harshjain/Downloads/Find-Best-main/Frontend/package.json (relative path: .)\n' +
+    '    resolve as module\n' +
+    "      /Users/harshjain/Downloads/Find-Best-main/Frontend/node_modules doesn't exist or is not a directory\n" +
+    "      /Users/harshjain/Downloads/Find-Best-main/node_modules doesn't exist or is not a directory\n" +
+    "      /Users/harshjain/Downloads/node_modules doesn't exist or is not a directory\n" +
+    "      /Users/harshjain/node_modules doesn't exist or is not a directory\n" +
+    "      /Users/node_modules doesn't exist or is not a directory\n" +
+    "      /node_modules doesn't exist or is not a directory"
+}
+[Frontend/tailwind.config.js] Failed to load workspace modules.
+[Frontend/tailwind.config.js] Using bundled version of `tailwindcss`: v3.4.4
+[Frontend/tailwind.config.js] Using bundled version of `postcss`: v8.4.31
+[Frontend/tailwind.config.js] Building...
+[Frontend/tailwind.config.js] File changed: /Users/harshjain/Downloads/Find-Best-main/package-lock.json
+[Frontend/tailwind.config.js] Initializing...
+[Error - 11:57:15] Error: Can't resolve 'tailwindcss' in '/Users/harshjain/Downloads/Find-Best-main/Frontend'
+    at p (/Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.13/dist/tailwindServer.js:130:7155)
+    at /Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.13/dist/tailwindServer.js:131:713
+    at /Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.13/dist/tailwindServer.js:134:405
+    at eval (eval at create (/Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.13/dist/tailwindServer.js:5:78), <anonymous>:15:1)
+    at /Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.13/dist/tailwindServer.js:134:405
+    at eval (eval at create (/Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.13/dist/tailwindServer.js:5:78), <anonymous>:27:1)
+    at /Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.13/dist/tailwindServer.js:134:7916
+    at /Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.13/dist/tailwindServer.js:134:405
+    at eval (eval at create (/Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.13/dist/tailwindServer.js:5:78), <anonymous>:15:1)
+    at /Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.13/dist/tailwindServer.js:134:405 {
+  details: "resolve 'tailwindcss' in '/Users/harshjain/Downloads/Find-Best-main/Frontend'\n" +
+    '  Parsed request is a module\n' +
+    '  using description file: /Users/harshjain/Downloads/Find-Best-main/Frontend/package.json (relative path: .)\n' +
+    '    resolve as module\n' +
+    "      /Users/harshjain/Downloads/Find-Best-main/Frontend/node_modules doesn't exist or is not a directory\n" +
+    "      /Users/harshjain/Downloads/Find-Best-main/node_modules doesn't exist or is not a directory\n" +
+    "      /Users/harshjain/Downloads/node_modules doesn't exist or is not a directory\n" +
+    "      /Users/harshjain/node_modules doesn't exist or is not a directory\n" +
+    "      /Users/node_modules doesn't exist or is not a directory\n" +
+    "      /node_modules doesn't exist or is not a directory"
+}
+[Frontend/tailwind.config.js] Failed to load workspace modules.
+[Frontend/tailwind.config.js] Using bundled version of `tailwindcss`: v3.4.4
+[Frontend/tailwind.config.js] Using bundled version of `postcss`: v8.4.31
+[Frontend/tailwind.config.js] Building...

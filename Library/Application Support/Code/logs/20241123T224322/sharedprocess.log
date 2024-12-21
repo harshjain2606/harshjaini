@@ -1,0 +1,8 @@
+2024-11-23 22:43:23.383 [info] Deleted uninstalled extension from disk bradlc.vscode-tailwindcss /Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.13
+2024-11-23 22:43:28.851 [info] Getting Manifest... bradlc.vscode-tailwindcss
+2024-11-23 22:43:28.988 [info] Installing extension: bradlc.vscode-tailwindcss {"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/Users/harshjain/.vscode/extensions/extensions.json","path":"/Users/harshjain/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-23 22:43:30.523 [info] Extension signature verification result for bradlc.vscode-tailwindcss: Success. Executed: true. Duration: 538ms.
+2024-11-23 22:43:30.557 [info] Extracted extension to file:///Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.15: bradlc.vscode-tailwindcss
+2024-11-23 22:43:30.564 [info] Renamed to /Users/harshjain/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.15
+2024-11-23 22:43:30.571 [info] Marked extension as uninstalled bradlc.vscode-tailwindcss-0.12.14
+2024-11-23 22:43:30.573 [info] Extension installed successfully: bradlc.vscode-tailwindcss vscode-userdata:/Users/harshjain/.vscode/extensions/extensions.json

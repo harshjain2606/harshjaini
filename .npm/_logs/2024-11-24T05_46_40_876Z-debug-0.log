@@ -1,0 +1,19 @@
+0 verbose cli /opt/homebrew/Cellar/node/23.2.0/bin/node /opt/homebrew/bin/npm
+1 info using npm@10.9.0
+2 info using node@v23.2.0
+3 silly config load:file:/opt/homebrew/lib/node_modules/npm/npmrc
+4 silly config load:file:/Users/harshjain/ecommerce-project/.npmrc
+5 silly config load:file:/Users/harshjain/.npmrc
+6 silly config load:file:/opt/homebrew/etc/npmrc
+7 verbose title npm start
+8 verbose argv "start"
+9 verbose logfile logs-max:10 dir:/Users/harshjain/.npm/_logs/2024-11-24T05_46_40_876Z-
+10 verbose logfile /Users/harshjain/.npm/_logs/2024-11-24T05_46_40_876Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
+13 verbose cwd /Users/harshjain/ecommerce-project
+14 verbose os Darwin 24.1.0
+15 verbose node v23.2.0
+16 verbose npm  v10.9.0
+17 verbose exit 0
+18 info ok

@@ -1,0 +1,6 @@
+2024/11/21-17:26:48.532 2c03 Reusing MANIFEST /Users/harshjain/Library/Application Support/Google/Chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2024/11/21-17:26:48.543 2c03 Recovering log #85
+2024/11/21-17:26:48.543 2c03 Reusing old log /Users/harshjain/Library/Application Support/Google/Chrome/Default/Local Storage/leveldb/000085.log 
+2024/11/21-21:53:58.100 3d03 Level-0 table #89: started
+2024/11/21-21:53:58.108 3d03 Level-0 table #89: 11226 bytes OK
+2024/11/21-21:53:58.118 3d03 Delete type=0 #85

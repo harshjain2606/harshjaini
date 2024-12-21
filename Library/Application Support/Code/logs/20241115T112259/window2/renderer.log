@@ -1,0 +1,68 @@
+2024-11-15 17:25:40.727 [info] Started local extension host with pid 10863.
+2024-11-15 17:25:40.912 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-15 17:25:40.913 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-15 17:25:41.084 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: pug
+2024-11-15 17:25:41.085 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: sass
+2024-11-15 17:25:41.085 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: stylus
+2024-11-15 17:25:43.365 [info] [perf] Render performance baseline is 17ms
+2024-11-15 18:28:36.494 [info] Started local extension host with pid 11847.
+2024-11-15 18:28:36.693 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: pug
+2024-11-15 18:28:36.693 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: sass
+2024-11-15 18:28:36.693 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: stylus
+2024-11-15 18:28:37.155 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-15 18:28:37.155 [info] Settings Sync: Authentication providers updated []
+2024-11-15 18:28:37.174 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-15 18:28:37.175 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-15 18:28:37.175 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-15 18:28:37.175 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-15 18:28:37.175 [info] Settings Sync: Updating due to declared authentication providers changed
+2024-11-15 18:28:37.176 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-15 18:28:37.176 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-15 18:28:37.176 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-15 18:28:37.176 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-15 18:28:37.176 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-15 18:28:37.176 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-15 18:28:37.176 [info] Settings Sync: Updating due to declared authentication providers changed
+2024-11-15 18:28:37.176 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-15 18:28:37.176 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-15 18:28:37.908 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-15 18:28:37.908 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-15 18:28:39.003 [info] [perf] Render performance baseline is 14ms
+2024-11-15 18:28:52.145 [error] lock() request could not be registered.: Error: lock() request could not be registered.
+2024-11-15 18:36:31.592 [warning] [File Watcher ('parcel')] started ignoring events due to too many file change events at once (incoming: 4265, most recent change: /Users/harshjain/Downloads/Find-Best-main/Backend/node_modules/@babel/core/node_modules/debug/LICENSE). Use 'files.watcherExclude' setting to exclude folders with lots of changing files (e.g. compilation output).
+2024-11-15 18:39:24.548 [warning] [File Watcher ('parcel')] started ignoring events due to too many file change events at once (incoming: 5431, most recent change: /Users/harshjain/Downloads/Find-Best-main/Frontend/node_modules/@mui/material/Accordion/package.json). Use 'files.watcherExclude' setting to exclude folders with lots of changing files (e.g. compilation output).
+2024-11-15 18:51:12.521 [error] File seems to be binary and cannot be opened as text: Error: File seems to be binary and cannot be opened as text
+    at Gnt.M (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3089:9267)
+    at async Gnt.readStream (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3089:8894)
+    at async Pde.Db (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1275:11960)
+    at async Pde.resolve (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1275:10435)
+    at async Unt.W (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3089:5752)
+    at async tWe.r (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1275:20910)
+    at async qpi.acquire (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:25:3125)
+    at async iWe.createModelReference (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1275:22466)
+    at async Promise.all (index 1)
+    at async Smt.c (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:627:21475)
+2024-11-15 18:51:12.641 [error] [695] potential listener LEAK detected, having 175 listeners already. MOST frequent listener (1):: Error
+    at Iai.create (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:25:11828)
+    at Cxe.q [as onDidChange] (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:28:1108)
+    at new Xte (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:249:19698)
+    at tht.o (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1354:1586)
+    at tht.createInstance (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1354:1083)
+    at new Ew (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:249:31165)
+    at tht.o (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1354:1586)
+    at tht.createInstance (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1354:1083)
+    at pWe.I (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:553:1910)
+    at pWe.createModel (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:554:861)
+2024-11-15 18:51:12.651 [error] File seems to be binary and cannot be opened as text: Error: File seems to be binary and cannot be opened as text
+    at Gnt.M (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3089:9267)
+    at async Gnt.readStream (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3089:8894)
+    at async Pde.Db (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1275:11960)
+    at async Pde.resolve (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1275:10435)
+    at async Unt.W (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3089:5752)
+    at async tWe.r (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1275:20910)
+    at async qpi.acquire (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:25:3125)
+    at async iWe.createModelReference (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1275:22466)
+    at async Promise.all (index 1)
+    at async Smt.c (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:627:21475)
+2024-11-15 19:09:28.573 [error] [network] #16: https://az764295.vo.msecnd.net/extensions/chat.json - error GET Failed to fetch
+2024-11-15 19:09:28.575 [warning] Failed to fetch chat participant registry Failed to fetch

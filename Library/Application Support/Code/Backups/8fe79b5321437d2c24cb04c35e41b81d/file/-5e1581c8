@@ -1,0 +1,12 @@
+file:///Users/harshjain/ecommerce-project/models/Product.js {"mtime":1732424316613,"ctime":1732424316613,"size":0,"etag":"3dcegdj8b0","orphaned":false,"typeId":""}
+const mongoose = require('mongoose');
+
+const productSchema = new mongoose.Schema({
+  name: { type: String, required: true },
+  price: { type: Number, required: true },
+  description: { type: String },
+  stock: { type: Number, required: true, default: 0 },
+  seller: { type: mongoose.Schema.Types.ObjectId, ref: 'User', required: true },
+}, { timestamps: true });
+
+module.exports = mongoose.model('Product', productSchema);

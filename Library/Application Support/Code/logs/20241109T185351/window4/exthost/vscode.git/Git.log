@@ -1,0 +1,3 @@
+2024-11-09 19:09:05.805 [info] [main] Log level: Info
+2024-11-09 19:09:05.817 [warning] Unable to find git. Error: Executing "xcode-select -p" failed with error code 2.
+2024-11-09 19:09:05.818 [warning] [main] Failed to create model: Error: Git installation not found.

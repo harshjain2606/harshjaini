@@ -1,0 +1,11 @@
+2024-11-09 22:34:35.941 [info] Started local extension host with pid 14028.
+2024-11-09 22:34:36.282 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: pug
+2024-11-09 22:34:36.282 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: sass
+2024-11-09 22:34:36.283 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: stylus
+2024-11-09 22:34:38.571 [info] [perf] Render performance baseline is 16ms
+2024-11-09 23:09:32.059 [error] lock() request could not be registered.: Error: lock() request could not be registered.
+2024-11-09 23:09:35.465 [info] Started local extension host with pid 17571.
+2024-11-09 23:09:35.633 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: pug
+2024-11-09 23:09:35.634 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: sass
+2024-11-09 23:09:35.634 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: stylus
+2024-11-09 23:09:38.040 [info] [perf] Render performance baseline is 16ms

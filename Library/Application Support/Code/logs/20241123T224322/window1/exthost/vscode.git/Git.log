@@ -1,0 +1,217 @@
+2024-11-23 22:43:23.654 [info] [main] Log level: Info
+2024-11-23 22:43:23.654 [info] [main] Validating found git in: "/opt/homebrew/bin/git"
+2024-11-23 22:43:23.801 [info] [main] Using git "2.47.0" from "/opt/homebrew/bin/git"
+2024-11-23 22:43:23.801 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-23 22:43:23.803 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-23 22:45:07.327 [info] [main] Log level: Info
+2024-11-23 22:45:07.327 [info] [main] Validating found git in: "/opt/homebrew/bin/git"
+2024-11-23 22:45:07.362 [info] [main] Using git "2.47.0" from "/opt/homebrew/bin/git"
+2024-11-23 22:45:07.362 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-23 22:45:08.131 [info] > git rev-parse --show-toplevel [766ms]
+2024-11-23 22:45:08.146 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (1), unsafe repositories (0)
+2024-11-23 22:45:09.309 [info] > git rev-parse --show-toplevel [17ms]
+2024-11-23 22:46:25.616 [info] > git rev-parse --show-toplevel [24ms]
+2024-11-23 22:46:32.225 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-23 22:46:32.232 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:46:32.240 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-23 22:46:32.246 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:46:32.253 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:46:32.259 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-23 22:46:32.266 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:46:32.272 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:46:32.278 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:46:32.285 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-23 22:46:32.293 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-23 22:46:32.299 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-23 22:46:32.307 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:46:32.313 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:46:32.320 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-23 22:46:32.327 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-23 22:46:32.793 [info] > git rev-parse --show-toplevel [8ms]
+2024-11-23 22:46:32.800 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:33.557 [info] > git rev-parse --show-toplevel [62ms]
+2024-11-23 22:47:37.284 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.291 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.298 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.305 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.311 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.318 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-23 22:47:37.324 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.331 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.338 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.345 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.352 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.359 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.366 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.373 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.380 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.387 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.394 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.401 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.407 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-23 22:47:37.414 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.420 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-23 22:47:37.427 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.433 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-23 22:47:37.440 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.446 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.453 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.459 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-23 22:47:37.466 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.473 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-23 22:47:37.481 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-23 22:47:37.488 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.496 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-23 22:47:37.504 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-23 22:47:37.511 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.518 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.525 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.531 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.538 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.545 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.551 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.558 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.565 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.571 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.578 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.585 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-23 22:47:37.591 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.599 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-23 22:47:37.606 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.613 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.620 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.628 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-23 22:47:37.635 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-23 22:47:37.642 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-23 22:47:37.649 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-23 22:47:37.656 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.662 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.668 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-23 22:47:37.674 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-23 22:47:37.681 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.687 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.693 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.699 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.706 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.714 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-23 22:47:37.721 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.728 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.735 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.742 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.749 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.756 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.762 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.768 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.774 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-23 22:47:37.781 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.787 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.793 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.804 [info] > git rev-parse --show-toplevel [10ms]
+2024-11-23 22:47:37.814 [info] > git rev-parse --show-toplevel [9ms]
+2024-11-23 22:47:37.821 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-23 22:47:37.827 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:37.834 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:38.929 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-23 22:47:38.941 [info] > git rev-parse --show-toplevel [11ms]
+2024-11-23 22:47:38.951 [info] > git rev-parse --show-toplevel [8ms]
+2024-11-23 22:47:38.959 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-23 22:47:38.971 [info] > git rev-parse --show-toplevel [9ms]
+2024-11-23 22:47:38.981 [info] > git rev-parse --show-toplevel [8ms]
+2024-11-23 22:47:38.991 [info] > git rev-parse --show-toplevel [8ms]
+2024-11-23 22:47:39.000 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-23 22:47:39.007 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-23 22:47:42.201 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-23 22:47:43.848 [info] > git rev-parse --show-toplevel [11ms]
+2024-11-23 22:47:43.858 [info] > git rev-parse --show-toplevel [9ms]
+2024-11-23 22:47:43.867 [info] > git rev-parse --show-toplevel [8ms]
+2024-11-23 22:47:43.875 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-23 22:47:44.684 [info] > git rev-parse --show-toplevel [17ms]
+2024-11-23 22:47:46.530 [info] > git rev-parse --show-toplevel [10ms]
+2024-11-23 22:47:46.540 [info] > git rev-parse --show-toplevel [9ms]
+2024-11-23 22:47:46.550 [info] > git rev-parse --show-toplevel [9ms]
+2024-11-23 22:47:46.559 [info] > git rev-parse --show-toplevel [8ms]
+2024-11-23 22:49:49.107 [info] > git rev-parse --show-toplevel [19ms]
+2024-11-23 22:50:54.638 [info] > git rev-parse --show-toplevel [62ms]
+2024-11-23 22:52:05.841 [info] > git rev-parse --show-toplevel [62ms]
+2024-11-23 22:54:21.768 [info] > git rev-parse --show-toplevel [35ms]
+2024-11-23 22:54:42.460 [info] > git rev-parse --show-toplevel [44ms]
+2024-11-23 22:55:15.003 [info] > git rev-parse --show-toplevel [23ms]
+2024-11-23 22:55:28.290 [info] > git rev-parse --show-toplevel [14ms]
+2024-11-23 22:56:38.475 [info] > git rev-parse --show-toplevel [27ms]
+2024-11-23 22:56:46.122 [info] > git rev-parse --show-toplevel [10ms]
+2024-11-23 22:58:34.326 [info] > git rev-parse --show-toplevel [25ms]
+2024-11-23 23:31:47.938 [info] > git rev-parse --show-toplevel [60ms]
+2024-11-23 23:32:25.064 [info] > git rev-parse --show-toplevel [51ms]
+2024-11-23 23:35:12.223 [info] > git rev-parse --show-toplevel [31ms]
+2024-11-23 23:35:12.233 [info] > git rev-parse --git-dir --git-common-dir [8ms]
+2024-11-23 23:35:12.240 [info] [Model][openRepository] Opened repository: /Users/harshjain
+2024-11-23 23:35:12.246 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-23 23:35:12.258 [info] > git config --get commit.template [15ms]
+2024-11-23 23:35:12.300 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [54ms]
+2024-11-23 23:35:12.300 [warning] [Git][getBranch] No such branch: master
+2024-11-23 23:35:12.318 [info] > git fetch [77ms]
+2024-11-23 23:35:12.319 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [15ms] (cancelled)
+2024-11-23 23:35:12.324 [info] > git status -z -uall [23ms] (cancelled)
+2024-11-23 23:35:12.327 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-23 23:35:12.327 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-23 23:35:12.333 [info] > git config --get commit.template [10ms]
+2024-11-23 23:35:12.333 [info] > git config --get commit.template [11ms]
+2024-11-23 23:35:12.335 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [15ms]
+2024-11-23 23:35:12.336 [warning] [Git][getBranch] No such branch: master
+2024-11-23 23:35:12.336 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for master: Error: No such branch: master.
+2024-11-23 23:35:12.340 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [12ms]
+2024-11-23 23:35:12.340 [warning] [Git][getBranch] No such branch: master
+2024-11-23 23:35:12.342 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [15ms]
+2024-11-23 23:35:12.342 [warning] [Git][getBranch] No such branch: master
+2024-11-23 23:35:12.348 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [10ms]
+2024-11-23 23:35:12.348 [info] fatal: bad revision 'refs/heads/master'
+2024-11-23 23:35:12.348 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["refs/heads/master"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/heads/master'\n"
+}
+2024-11-23 23:35:12.349 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+2024-11-23 23:35:12.575 [info] > git ls-files --stage -- /Users/harshjain/e-commerce-project/.env [25ms]
+2024-11-23 23:35:12.575 [info] > git show --textconv :e-commerce-project/.env [25ms]
+2024-11-23 23:35:12.857 [info] > git check-ignore -v -z --stdin [54ms]
+2024-11-23 23:35:15.884 [info] > git ls-files --stage -- /Users/harshjain/e-commerce-project/.env [15ms]
+2024-11-23 23:35:15.895 [info] > git show --textconv :e-commerce-project/.env [9ms]
+2024-11-23 23:35:22.431 [info] > git status -z -uall [10090ms] (cancelled)
+2024-11-23 23:35:26.614 [info] > git check-ignore -v -z --stdin [23ms]
+2024-11-23 23:35:29.018 [info] > git check-ignore -v -z --stdin [20ms]
+2024-11-23 23:35:31.207 [info] > git check-ignore -v -z --stdin [9ms]
+2024-11-23 23:35:36.427 [info] > git check-ignore -v -z --stdin [12ms]
+2024-11-23 23:35:57.429 [info] > git check-ignore -v -z --stdin [25ms]
+2024-11-23 23:36:01.704 [info] > git check-ignore -v -z --stdin [21ms]
+2024-11-23 23:36:03.020 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [15ms]
+2024-11-23 23:36:03.020 [info] fatal: bad revision 'refs/heads/master'
+2024-11-23 23:36:03.020 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["refs/heads/master"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/heads/master'\n"
+}
+2024-11-23 23:36:06.313 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-23 23:36:06.328 [info] > git config --get commit.template [13ms]
+2024-11-23 23:36:06.329 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [16ms]
+2024-11-23 23:36:06.329 [warning] [Git][getBranch] No such branch: master
+2024-11-23 23:36:06.342 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [11ms]
+2024-11-23 23:36:07.993 [info] > git status -z -uall [1663ms] (cancelled)
+2024-11-23 23:36:59.647 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [31ms]
+2024-11-23 23:36:59.647 [info] fatal: bad revision 'refs/heads/master'
+2024-11-23 23:36:59.647 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["refs/heads/master"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/heads/master'\n"
+}
+2024-11-23 23:38:12.374 [info] > git fetch [42ms]
+2024-11-23 23:38:12.377 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-23 23:38:12.387 [info] > git config --get commit.template [11ms]
+2024-11-23 23:38:12.387 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [10ms]
+2024-11-23 23:38:12.387 [warning] [Git][getBranch] No such branch: master
+2024-11-23 23:38:12.398 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+2024-11-23 23:38:13.634 [info] > git ls-files --stage -- /Users/harshjain/e-commerce-project/.env [8ms]
+2024-11-23 23:38:13.642 [info] > git show --textconv :e-commerce-project/.env [7ms]
+2024-11-23 23:38:13.860 [info] > git status -z -uall [1472ms] (cancelled)

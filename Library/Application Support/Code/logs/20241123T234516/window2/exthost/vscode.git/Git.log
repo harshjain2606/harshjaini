@@ -1,0 +1,189 @@
+2024-11-24 09:57:41.968 [info] [main] Log level: Info
+2024-11-24 09:57:41.968 [info] [main] Validating found git in: "/opt/homebrew/bin/git"
+2024-11-24 09:57:42.001 [info] [main] Using git "2.47.0" from "/opt/homebrew/bin/git"
+2024-11-24 09:57:42.001 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-24 09:57:42.003 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-24 09:57:54.634 [info] [main] Log level: Info
+2024-11-24 09:57:54.635 [info] [main] Validating found git in: "/opt/homebrew/bin/git"
+2024-11-24 09:57:54.666 [info] [main] Using git "2.47.0" from "/opt/homebrew/bin/git"
+2024-11-24 09:57:54.666 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-24 09:57:55.038 [info] > git rev-parse --show-toplevel [369ms]
+2024-11-24 09:57:55.048 [info] > git rev-parse --git-dir --git-common-dir [7ms]
+2024-11-24 09:57:55.053 [info] [Model][openRepository] Opened repository: /Users/harshjain/e-commerce-project
+2024-11-24 09:57:55.056 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-24 09:57:55.062 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-24 09:57:55.063 [info] > git config --get commit.template [8ms]
+2024-11-24 09:57:55.064 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [8ms]
+2024-11-24 09:57:55.064 [warning] [Git][getBranch] No such branch: master
+2024-11-24 09:57:55.072 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-24 09:57:55.074 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+2024-11-24 09:57:55.074 [info] > git fetch [22ms]
+2024-11-24 09:57:55.077 [info] > git status -z -uall [12ms] (cancelled)
+2024-11-24 09:57:55.079 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-24 09:57:55.080 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-24 09:57:55.081 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-24 09:57:55.085 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [8ms]
+2024-11-24 09:57:55.085 [warning] [Git][getBranch] No such branch: master
+2024-11-24 09:57:55.085 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for master: Error: No such branch: master.
+2024-11-24 09:57:55.087 [info] > git config --get commit.template [10ms]
+2024-11-24 09:57:55.088 [info] > git config --get commit.template [11ms]
+2024-11-24 09:57:55.088 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [9ms]
+2024-11-24 09:57:55.088 [warning] [Git][getBranch] No such branch: master
+2024-11-24 09:57:55.089 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [9ms]
+2024-11-24 09:57:55.089 [warning] [Git][getBranch] No such branch: master
+2024-11-24 09:57:55.092 [info] > git rev-parse --show-toplevel [10ms]
+2024-11-24 09:57:55.093 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-24 09:57:55.097 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+2024-11-24 09:57:55.131 [info] > git status -z -uall [41ms]
+2024-11-24 09:57:55.440 [info] > git show --textconv :.env [11ms]
+2024-11-24 09:57:55.441 [info] > git ls-files --stage -- /Users/harshjain/e-commerce-project/.env [11ms]
+2024-11-24 09:57:55.570 [info] > git check-ignore -v -z --stdin [13ms]
+2024-11-24 09:57:56.221 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-24 09:57:56.232 [info] > git config --get commit.template [12ms]
+2024-11-24 09:57:56.233 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [13ms]
+2024-11-24 09:57:56.233 [warning] [Git][getBranch] No such branch: master
+2024-11-24 09:57:56.245 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+2024-11-24 09:57:56.261 [info] > git status -z -uall [27ms]
+2024-11-24 09:57:56.322 [info] > git ls-files --stage -- /Users/harshjain/e-commerce-project/.env [8ms]
+2024-11-24 09:57:56.330 [info] > git show --textconv :.env [7ms]
+2024-11-24 09:58:17.791 [info] > git check-ignore -v -z --stdin [31ms]
+2024-11-24 09:58:21.615 [info] > git ls-files --stage -- /Users/harshjain/e-commerce-project/routes/admin.js [31ms]
+2024-11-24 09:58:21.619 [info] > git show --textconv :routes/admin.js [36ms]
+2024-11-24 10:00:55.146 [info] > git fetch [43ms]
+2024-11-24 10:00:55.148 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-24 10:00:55.156 [info] > git config --get commit.template [9ms]
+2024-11-24 10:00:55.156 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [8ms]
+2024-11-24 10:00:55.156 [warning] [Git][getBranch] No such branch: master
+2024-11-24 10:00:55.165 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+2024-11-24 10:00:55.203 [info] > git status -z -uall [46ms]
+2024-11-24 10:00:56.251 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-24 10:00:56.269 [info] > git config --get commit.template [20ms]
+2024-11-24 10:00:56.270 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [19ms]
+2024-11-24 10:00:56.270 [warning] [Git][getBranch] No such branch: master
+2024-11-24 10:00:56.289 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [17ms]
+2024-11-24 10:00:56.302 [info] > git status -z -uall [31ms]
+2024-11-24 10:00:56.355 [info] > git ls-files --stage -- /Users/harshjain/e-commerce-project/routes/admin.js [10ms]
+2024-11-24 10:00:56.364 [info] > git show --textconv :routes/admin.js [7ms]
+2024-11-24 10:03:55.271 [info] > git fetch [48ms]
+2024-11-24 10:03:55.273 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-24 10:03:55.280 [info] > git config --get commit.template [8ms]
+2024-11-24 10:03:55.281 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [8ms]
+2024-11-24 10:03:55.281 [warning] [Git][getBranch] No such branch: master
+2024-11-24 10:03:55.290 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+2024-11-24 10:03:55.327 [info] > git status -z -uall [45ms]
+2024-11-24 10:03:56.374 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-24 10:03:56.391 [info] > git config --get commit.template [17ms]
+2024-11-24 10:03:56.392 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [17ms]
+2024-11-24 10:03:56.392 [warning] [Git][getBranch] No such branch: master
+2024-11-24 10:03:56.405 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [11ms]
+2024-11-24 10:03:56.418 [info] > git status -z -uall [25ms]
+2024-11-24 10:03:56.480 [info] > git ls-files --stage -- /Users/harshjain/e-commerce-project/routes/admin.js [11ms]
+2024-11-24 10:03:56.488 [info] > git show --textconv :routes/admin.js [7ms]
+2024-11-24 10:06:55.394 [info] > git fetch [46ms]
+2024-11-24 10:06:55.396 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-24 10:06:55.403 [info] > git config --get commit.template [8ms]
+2024-11-24 10:06:55.404 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [8ms]
+2024-11-24 10:06:55.404 [warning] [Git][getBranch] No such branch: master
+2024-11-24 10:06:55.413 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+2024-11-24 10:06:55.449 [info] > git status -z -uall [44ms]
+2024-11-24 10:06:56.497 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-24 10:06:56.514 [info] > git config --get commit.template [18ms]
+2024-11-24 10:06:56.515 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [17ms]
+2024-11-24 10:06:56.515 [warning] [Git][getBranch] No such branch: master
+2024-11-24 10:06:56.529 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]
+2024-11-24 10:06:56.541 [info] > git status -z -uall [25ms]
+2024-11-24 10:06:56.604 [info] > git ls-files --stage -- /Users/harshjain/e-commerce-project/routes/admin.js [10ms]
+2024-11-24 10:06:56.614 [info] > git show --textconv :routes/admin.js [8ms]
+2024-11-24 10:10:49.823 [info] > git fetch [52ms]
+2024-11-24 10:10:49.825 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-24 10:10:49.832 [info] > git config --get commit.template [8ms]
+2024-11-24 10:10:49.833 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [8ms]
+2024-11-24 10:10:49.833 [warning] [Git][getBranch] No such branch: master
+2024-11-24 10:10:49.840 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2024-11-24 10:10:49.877 [info] > git status -z -uall [44ms]
+2024-11-24 10:10:50.921 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-24 10:10:50.935 [info] > git config --get commit.template [16ms]
+2024-11-24 10:10:50.937 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [17ms]
+2024-11-24 10:10:50.937 [warning] [Git][getBranch] No such branch: master
+2024-11-24 10:10:50.951 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]
+2024-11-24 10:10:50.962 [info] > git status -z -uall [24ms]
+2024-11-24 10:10:51.026 [info] > git ls-files --stage -- /Users/harshjain/e-commerce-project/routes/admin.js [9ms]
+2024-11-24 10:10:51.036 [info] > git show --textconv :routes/admin.js [8ms]
+2024-11-24 10:11:49.244 [info] > git ls-files --stage -- /Users/harshjain/e-commerce-project/models/User.js [36ms]
+2024-11-24 10:11:49.245 [info] > git show --textconv :models/User.js [37ms]
+2024-11-24 10:11:55.475 [info] > git ls-files --stage -- /Users/harshjain/e-commerce-project/models/Product.js [17ms]
+2024-11-24 10:11:55.476 [info] > git show --textconv :models/Product.js [19ms]
+2024-11-24 10:11:55.748 [info] > git check-ignore -v -z --stdin [8ms]
+2024-11-24 10:11:56.414 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-24 10:11:56.430 [info] > git config --get commit.template [17ms]
+2024-11-24 10:11:56.433 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [20ms]
+2024-11-24 10:11:56.433 [warning] [Git][getBranch] No such branch: master
+2024-11-24 10:11:56.446 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [11ms]
+2024-11-24 10:11:56.485 [info] > git status -z -uall [51ms]
+2024-11-24 10:13:03.203 [info] > git ls-files --stage -- /Users/harshjain/e-commerce-project/models/User.js [17ms]
+2024-11-24 10:13:03.204 [info] > git show --textconv :models/User.js [18ms]
+2024-11-24 10:13:04.097 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-24 10:13:04.114 [info] > git config --get commit.template [18ms]
+2024-11-24 10:13:04.117 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [19ms]
+2024-11-24 10:13:04.117 [warning] [Git][getBranch] No such branch: master
+2024-11-24 10:13:04.132 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [13ms]
+2024-11-24 10:13:04.171 [info] > git status -z -uall [53ms]
+2024-11-24 10:16:15.725 [info] > git fetch [33ms]
+2024-11-24 10:16:15.727 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-24 10:16:15.733 [info] > git config --get commit.template [6ms]
+2024-11-24 10:16:15.733 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [6ms]
+2024-11-24 10:16:15.733 [warning] [Git][getBranch] No such branch: master
+2024-11-24 10:16:15.741 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+2024-11-24 10:16:15.776 [info] > git status -z -uall [42ms]
+2024-11-24 10:16:16.871 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-24 10:16:16.888 [info] > git config --get commit.template [18ms]
+2024-11-24 10:16:16.889 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [17ms]
+2024-11-24 10:16:16.889 [warning] [Git][getBranch] No such branch: master
+2024-11-24 10:16:16.903 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]
+2024-11-24 10:16:16.916 [info] > git status -z -uall [26ms]
+2024-11-24 10:16:16.978 [info] > git ls-files --stage -- /Users/harshjain/e-commerce-project/models/User.js [11ms]
+2024-11-24 10:16:16.987 [info] > git show --textconv :models/User.js [8ms]
+2024-11-24 10:18:05.945 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [27ms]
+2024-11-24 10:18:05.946 [info] fatal: bad revision 'refs/heads/master'
+2024-11-24 10:18:05.946 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["refs/heads/master"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/heads/master'\n"
+}
+2024-11-24 10:18:06.571 [info] > git check-ignore -v -z --stdin [18ms]
+2024-11-24 10:18:12.791 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [11ms]
+2024-11-24 10:18:12.791 [info] fatal: bad revision 'refs/heads/master'
+2024-11-24 10:18:12.791 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["refs/heads/master"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/heads/master'\n"
+}
+2024-11-24 10:18:15.137 [info] > git check-ignore -v -z --stdin [21ms]
+2024-11-24 10:18:21.109 [info] > git check-ignore -v -z --stdin [23ms]
+2024-11-24 10:21:19.986 [info] > git fetch [34ms]
+2024-11-24 10:21:19.989 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-24 10:21:19.995 [info] > git config --get commit.template [7ms]
+2024-11-24 10:21:19.997 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [6ms]
+2024-11-24 10:21:19.997 [warning] [Git][getBranch] No such branch: master
+2024-11-24 10:21:20.004 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2024-11-24 10:21:20.040 [info] > git status -z -uall [42ms]
+2024-11-24 10:21:21.132 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-24 10:21:21.149 [info] > git config --get commit.template [17ms]
+2024-11-24 10:21:21.152 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [20ms]
+2024-11-24 10:21:21.152 [warning] [Git][getBranch] No such branch: master
+2024-11-24 10:21:21.166 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]
+2024-11-24 10:21:21.178 [info] > git status -z -uall [25ms]
+2024-11-24 10:21:21.237 [info] > git ls-files --stage -- /Users/harshjain/e-commerce-project/models/User.js [8ms]
+2024-11-24 10:21:21.245 [info] > git show --textconv :models/User.js [7ms]
+2024-11-24 10:22:16.348 [info] > git ls-files --stage -- /Users/harshjain/e-commerce-project/routes/admin.js [21ms]
+2024-11-24 10:22:16.350 [info] > git show --textconv :routes/admin.js [24ms]
+2024-11-24 10:22:16.829 [info] > git ls-files --stage -- /Users/harshjain/e-commerce-project/middleware/auth.js [8ms]
+2024-11-24 10:22:16.830 [info] > git show --textconv :middleware/auth.js [10ms]
+2024-11-24 10:22:47.901 [info] > git ls-files --stage -- /Users/harshjain/e-commerce-project/routes/admin.js [24ms]
+2024-11-24 10:22:47.902 [info] > git show --textconv :routes/admin.js [25ms]
+2024-11-24 10:22:48.520 [info] > git show --textconv :models/User.js [15ms]
+2024-11-24 10:22:48.520 [info] > git ls-files --stage -- /Users/harshjain/e-commerce-project/models/User.js [14ms]
+2024-11-24 10:22:49.069 [info] > git ls-files --stage -- /Users/harshjain/e-commerce-project/.env [11ms]
+2024-11-24 10:22:49.069 [info] > git show --textconv :.env [11ms]

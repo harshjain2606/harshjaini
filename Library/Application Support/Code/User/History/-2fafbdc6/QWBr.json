@@ -1,0 +1,5 @@
+{
+    "git.enableSmartCommit": true,
+    "editor.fontSize": 14,
+    "git.autofetch": true
+}

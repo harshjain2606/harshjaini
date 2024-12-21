@@ -1,0 +1,37 @@
+{
+   "checksum": "942764d02172e0ac56471532a4f3f57c",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13375345634885287",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks Bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13375345634885290",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other Bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13375345634885291",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile Bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CtEBCrABCIiBAhKpASAAkgGjAQqgAQoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJ3ZUGETgmBgAR3ZUGETgmBgAiNAlJHeYQOCYGABADGW69toKL8hEkIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAlJHeYQOCYGABADGW69toKL8hEkIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEpDGcIETgmBgASACoYRDh6UlFwL2tLRmt2bVFIajVWV0x5UT09SAMSqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp5Ukd1a2RYRG5JL3NkcHFrZ05NRzFDZmtBSHlid2N1WnMxY0FDYmR4RERWakpNa3BnVWFMekg4M0R3L0tkaCtKMXVjMzQ3GAAgACgAMMm6mIeBx4kDOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp6VzhvenlTdStOMklZRXN0MHU2VjlZSWNSaGZNWStueXhncXQxUEdqakQ1akg1eVRhUVBUczFMaFU4SDBQdkhWTGEwN0lUaytzZmxocGdYVVJxZ05Ub1BuY1BMZz09GAAgACgAMMm6mIeBx4kDOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp3TFMzVFNxenZNd3dlWUd5Zng0NVE1VDUwTko3ejlBYUxHYkJZUVp0NGJ3bE9lOS8yVDEycWpDdlZxSFBiMTdSV1VyRHVNVHd6TlNPVlpYZ25ZQnlKR3NmZ250QT09GAAgACgAMMm6mIeBx4kDOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAAwATgA",
+   "version": 1
+}

@@ -1,0 +1,43 @@
+2024-11-24 10:25:48.149 [info] [main] Log level: Info
+2024-11-24 10:25:48.149 [info] [main] Validating found git in: "/opt/homebrew/bin/git"
+2024-11-24 10:25:48.175 [info] [main] Using git "2.47.0" from "/opt/homebrew/bin/git"
+2024-11-24 10:25:48.175 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-24 10:25:48.177 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-24 10:26:49.432 [info] [main] Log level: Info
+2024-11-24 10:26:49.433 [info] [main] Validating found git in: "/opt/homebrew/bin/git"
+2024-11-24 10:26:49.464 [info] [main] Using git "2.47.0" from "/opt/homebrew/bin/git"
+2024-11-24 10:26:49.464 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-24 10:26:49.854 [info] > git rev-parse --show-toplevel [384ms]
+2024-11-24 10:26:49.864 [info] > git rev-parse --git-dir --git-common-dir [7ms]
+2024-11-24 10:26:49.869 [info] [Model][openRepository] Opened repository: /Users/harshjain
+2024-11-24 10:26:49.873 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-24 10:26:49.880 [info] > git rev-parse --show-toplevel [8ms]
+2024-11-24 10:26:49.884 [info] > git config --get commit.template [14ms]
+2024-11-24 10:26:49.885 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [12ms]
+2024-11-24 10:26:49.885 [warning] [Git][getBranch] No such branch: master
+2024-11-24 10:26:49.890 [info] > git rev-parse --show-toplevel [10ms]
+2024-11-24 10:26:49.892 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-24 10:26:49.894 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+2024-11-24 10:26:49.896 [info] > git fetch [27ms]
+2024-11-24 10:26:49.899 [info] > git status -z -uall [13ms] (cancelled)
+2024-11-24 10:26:49.900 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-24 10:26:49.901 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-24 10:26:49.905 [info] > git config --get commit.template [5ms]
+2024-11-24 10:26:49.905 [info] > git config --get commit.template [6ms]
+2024-11-24 10:26:49.906 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [9ms]
+2024-11-24 10:26:49.906 [warning] [Git][getBranch] No such branch: master
+2024-11-24 10:26:49.906 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for master: Error: No such branch: master.
+2024-11-24 10:26:49.907 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [6ms]
+2024-11-24 10:26:49.907 [warning] [Git][getBranch] No such branch: master
+2024-11-24 10:26:49.908 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/master refs/remotes/master [7ms]
+2024-11-24 10:26:49.908 [warning] [Git][getBranch] No such branch: master
+2024-11-24 10:26:49.916 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+2024-11-24 10:26:50.197 [info] > git ls-files --stage -- /Users/harshjain/New/docker-compose.yml [16ms]
+2024-11-24 10:26:50.197 [info] > git show --textconv :New/docker-compose.yml [21ms]
+2024-11-24 10:26:50.399 [info] > git check-ignore -v -z --stdin [25ms]
+2024-11-24 10:26:52.648 [info] > git ls-files --stage -- /Users/harshjain/New/docker-compose.yml [14ms]
+2024-11-24 10:26:52.661 [info] > git show --textconv :New/docker-compose.yml [11ms]
+2024-11-24 10:26:54.135 [info] > git status -z -uall [4226ms] (cancelled)
+2024-11-24 10:26:55.038 [info] > git ls-files --stage -- /Users/harshjain/New/polling-system/server.js [9ms]
+2024-11-24 10:26:55.039 [info] > git show --textconv :New/polling-system/server.js [10ms]
+2024-11-24 10:26:55.321 [info] > git check-ignore -v -z --stdin [8ms]

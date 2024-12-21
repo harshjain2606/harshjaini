@@ -1,0 +1,124 @@
+2024-11-14 17:09:51.530 [info] Extension host with pid 56638 started
+2024-11-14 17:09:51.530 [info] Skipping acquiring lock for /Users/harshjain/Library/Application Support/Code/User/workspaceStorage/33346fc49262078605d711643c1e8d3e.
+2024-11-14 17:09:51.548 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-11-14 17:09:51.580 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-14 17:09:51.582 [info] ExtensionService#_doActivateExtension DivyanshuAgrawal.competitive-programming-helper, startup: true, activationEvent: '*'
+2024-11-14 17:09:51.594 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-11-14 17:09:51.596 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2024-11-14 17:09:51.663 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-14 17:09:51.696 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-14 17:09:51.904 [info] Eager extensions activated
+2024-11-14 17:09:51.913 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-14 17:09:51.915 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-14 17:09:51.925 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2024-11-14 17:09:51.946 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2024-11-14 17:09:52.171 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2024-11-14 17:09:52.172 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-11-14 17:09:52.212 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-11-14 17:09:52.227 [info] ExtensionService#_doActivateExtension mongodb.mongodb-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-11-14 17:09:52.693 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-11-14 17:09:52.739 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-11-14 17:09:52.745 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-11-14 17:09:52.773 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-11-14 17:09:52.799 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-14 17:09:53.082 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2044
+2024-11-14 17:09:53.268 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2044
+2024-11-14 17:10:43.382 [info] Extension host terminating: renderer closed the MessagePort
+2024-11-14 17:10:43.412 [error] Canceled: Canceled
+    at new tT (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:108738)
+    at py.U (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113348)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110842)
+    at Y0.g (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32313)
+    at Y0.executeCommand (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+    at r.registerCommand.description (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31147)
+    at Y0.h (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32833)
+    at Y0.g (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31910)
+    at Y0.executeCommand (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+    at Object.executeCommand (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:37246)
+    at mh.O [as value] (/private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual Studio Code-2.app/Contents/Resources/app/extensions/git/dist/main.js:2:961845)
+    at D.B (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+    at D.C (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:816)
+    at D.fire (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1033)
+    at Object.p [as dispose] (/private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual Studio Code-2.app/Contents/Resources/app/extensions/git/dist/main.js:2:983333)
+    at /private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual Studio Code-2.app/Contents/Resources/app/extensions/git/dist/main.js:2:989455
+    at Array.forEach (<anonymous>)
+    at b.dispose (/private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual Studio Code-2.app/Contents/Resources/app/extensions/git/dist/main.js:2:989441)
+    at V1.<anonymous> (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:19994)
+    at V1.dispose (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20090)
+    at V1.<anonymous> (/private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual Studio Code-2.app/Contents/Resources/app/extensions/git/dist/main.js:2:964255)
+    at V1.dispose (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20090)
+    at ci (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:699)
+    at file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:14992
+    at file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:1009
+    at Object.dispose (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+    at z_.eb (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11919)
+    at file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9874
+    at Array.map (<anonymous>)
+    at z_.$ (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9862)
+    at z_.terminate (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10105)
+    at EC.terminate (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+    at Zi (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:15063)
+    at MessagePortMain.<anonymous> (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11611)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-11-14 17:10:43.415 [error] Canceled: Canceled
+    at new tT (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:108738)
+    at py.U (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113348)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110842)
+    at Y0.g (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32313)
+    at Y0.executeCommand (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+    at r.registerCommand.description (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31147)
+    at Y0.h (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32833)
+    at Y0.g (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31910)
+    at Y0.executeCommand (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+    at Object.executeCommand (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:37246)
+    at a.VscodeDevShareProvider.set hasGitHubRepositories [as hasGitHubRepositories] (/private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual Studio Code-2.app/Contents/Resources/app/extensions/github/dist/extension.js:2:328633)
+    at /private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual Studio Code-2.app/Contents/Resources/app/extensions/github/dist/extension.js:2:329592
+    at mh.value (/private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual Studio Code-2.app/Contents/Resources/app/extensions/git/dist/main.js:2:1073936)
+    at D.B (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+    at D.C (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:816)
+    at D.fire (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1033)
+    at Object.p [as dispose] (/private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual Studio Code-2.app/Contents/Resources/app/extensions/git/dist/main.js:2:983333)
+    at /private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual Studio Code-2.app/Contents/Resources/app/extensions/git/dist/main.js:2:989455
+    at Array.forEach (<anonymous>)
+    at b.dispose (/private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual Studio Code-2.app/Contents/Resources/app/extensions/git/dist/main.js:2:989441)
+    at V1.<anonymous> (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:19994)
+    at V1.dispose (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20090)
+    at V1.<anonymous> (/private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual Studio Code-2.app/Contents/Resources/app/extensions/git/dist/main.js:2:964255)
+    at V1.dispose (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20090)
+    at ci (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:699)
+    at file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:14992
+    at file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:1009
+    at Object.dispose (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+    at z_.eb (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11919)
+    at file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9874
+    at Array.map (<anonymous>)
+    at z_.$ (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9862)
+    at z_.terminate (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10105)
+    at EC.terminate (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+    at Zi (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:15063)
+    at MessagePortMain.<anonymous> (file:///private/var/folders/_1/p0gl2ldn20q3l8jdmj0shrr80000gn/T/AppTranslocation/128426DB-1680-4430-BDBB-87F338C1AF16/d/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11611)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-11-14 17:10:43.416 [info] Extension host with pid 56638 exiting with code 0
+2024-11-14 17:10:44.070 [info] Extension host with pid 56717 started
+2024-11-14 17:10:44.070 [info] Skipping acquiring lock for /Users/harshjain/Library/Application Support/Code/User/workspaceStorage/f691311956221f2fac980c82b315e45c.
+2024-11-14 17:10:44.078 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-11-14 17:10:44.115 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-14 17:10:44.117 [info] ExtensionService#_doActivateExtension DivyanshuAgrawal.competitive-programming-helper, startup: true, activationEvent: '*'
+2024-11-14 17:10:44.128 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-11-14 17:10:44.130 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2024-11-14 17:10:44.183 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-14 17:10:44.214 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-14 17:10:44.293 [info] Eager extensions activated
+2024-11-14 17:10:44.294 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-14 17:10:44.295 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-14 17:10:44.306 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2024-11-14 17:10:44.326 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2024-11-14 17:10:44.532 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2024-11-14 17:10:44.533 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-11-14 17:10:44.569 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-11-14 17:10:44.586 [info] ExtensionService#_doActivateExtension mongodb.mongodb-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-11-14 17:10:45.035 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-11-14 18:00:56.220 [info] Extension host terminating: renderer closed the MessagePort
+2024-11-14 18:00:56.250 [info] Extension host with pid 56717 exiting with code 0

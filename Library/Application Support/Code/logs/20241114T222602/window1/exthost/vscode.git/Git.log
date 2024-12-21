@@ -1,0 +1,16 @@
+2024-11-14 22:26:05.949 [info] [main] Log level: Info
+2024-11-14 22:26:05.949 [info] [main] Validating found git in: "/opt/homebrew/bin/git"
+2024-11-14 22:26:05.971 [info] [main] Using git "2.47.0" from "/opt/homebrew/bin/git"
+2024-11-14 22:26:05.971 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-14 22:26:06.000 [info] > git rev-parse --show-toplevel [25ms]
+2024-11-14 22:26:06.063 [info] > git rev-parse --show-toplevel [24ms]
+2024-11-14 22:26:06.088 [info] > git rev-parse --show-toplevel [23ms]
+2024-11-14 22:26:06.106 [info] > git rev-parse --show-toplevel [16ms]
+2024-11-14 22:26:06.115 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-14 22:26:06.124 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-14 22:26:07.287 [info] > git rev-parse --show-toplevel [39ms]
+2024-11-14 22:26:07.303 [info] > git rev-parse --show-toplevel [11ms]
+2024-11-14 22:26:07.305 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (1), unsafe repositories (0)
+2024-11-14 22:26:07.316 [info] > git rev-parse --show-toplevel [9ms]
+2024-11-14 22:26:07.327 [info] > git rev-parse --show-toplevel [9ms]
+2024-11-14 22:26:08.136 [info] > git rev-parse --show-toplevel [15ms]

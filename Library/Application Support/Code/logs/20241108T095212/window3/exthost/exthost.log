@@ -1,0 +1,14 @@
+2024-11-08 11:20:08.331 [info] Extension host with pid 1957 started
+2024-11-08 11:20:08.337 [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebookSerializer:jupyter-notebook'
+2024-11-08 11:20:08.348 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-11-08 11:20:08.350 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-11-08 11:20:08.351 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2024-11-08 11:20:08.374 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-08 11:20:08.483 [info] Eager extensions activated
+2024-11-08 11:20:08.518 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-08 11:20:08.528 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-08 11:20:08.530 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-08 11:20:08.541 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2024-11-08 11:20:08.797 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-11-08 11:20:13.691 [info] Extension host terminating: renderer closed the MessagePort
+2024-11-08 11:20:13.700 [info] Extension host with pid 1957 exiting with code 0

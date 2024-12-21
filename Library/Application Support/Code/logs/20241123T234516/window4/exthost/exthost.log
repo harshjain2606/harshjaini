@@ -1,0 +1,126 @@
+2024-11-24 10:24:33.481 [info] Extension host with pid 3785 started
+2024-11-24 10:24:33.508 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-11-24 10:24:33.547 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-24 10:24:33.549 [info] ExtensionService#_doActivateExtension DivyanshuAgrawal.competitive-programming-helper, startup: true, activationEvent: '*'
+2024-11-24 10:24:33.561 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-11-24 10:24:33.563 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2024-11-24 10:24:33.621 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-24 10:24:33.651 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-24 10:24:33.724 [info] Eager extensions activated
+2024-11-24 10:24:33.725 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-24 10:24:33.727 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-24 10:24:33.737 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2024-11-24 10:24:33.758 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2024-11-24 10:24:33.959 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2024-11-24 10:24:33.959 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-11-24 10:24:33.996 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-11-24 10:24:34.008 [info] ExtensionService#_doActivateExtension mongodb.mongodb-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-11-24 10:24:34.446 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-11-24 10:25:30.215 [info] Extension host terminating: renderer closed the MessagePort
+2024-11-24 10:25:30.225 [info] Extension host with pid 3785 exiting with code 0
+2024-11-24 10:25:30.825 [info] Extension host with pid 3935 started
+2024-11-24 10:25:30.825 [info] Skipping acquiring lock for /Users/harshjain/Library/Application Support/Code/User/workspaceStorage/07c49b7bc705200ef8ff6d09f26b536e.
+2024-11-24 10:25:30.856 [info] ExtensionService#_doActivateExtension mongodb.mongodb-vscode, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-11-24 10:25:31.372 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-24 10:25:31.381 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2024-11-24 10:25:31.407 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onLanguage:javascript'
+2024-11-24 10:25:31.600 [info] ExtensionService#_doActivateExtension mgmcdermott.vscode-language-babel, startup: false, activationEvent: 'onLanguage:javascript'
+2024-11-24 10:25:31.687 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-11-24 10:25:31.838 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-24 10:25:31.840 [info] ExtensionService#_doActivateExtension DivyanshuAgrawal.competitive-programming-helper, startup: true, activationEvent: '*'
+2024-11-24 10:25:31.852 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-11-24 10:25:31.853 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2024-11-24 10:25:31.870 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-11-24 10:25:31.908 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-24 10:25:31.941 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-24 10:25:32.154 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1864
+2024-11-24 10:25:32.234 [info] Eager extensions activated
+2024-11-24 10:25:32.245 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-24 10:25:32.246 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-24 10:25:32.257 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2024-11-24 10:25:32.280 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2024-11-24 10:25:32.281 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-11-24 10:25:32.331 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-11-24 10:25:32.345 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-11-24 10:25:33.267 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1864
+2024-11-24 10:25:36.978 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-11-24 10:25:36.987 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-11-24 10:25:36.996 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-11-24 10:25:45.897 [info] Extension host terminating: renderer closed the MessagePort
+2024-11-24 10:25:45.916 [error] Canceled: Canceled
+    at new tT (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:108738)
+    at py.U (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113348)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110842)
+    at Y0.g (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32313)
+    at Y0.executeCommand (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+    at r.registerCommand.description (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31147)
+    at Y0.h (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32833)
+    at Y0.g (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31910)
+    at Y0.executeCommand (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+    at Object.executeCommand (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:37246)
+    at mh.O [as value] (/Applications/Visual Studio Code-2.app/Contents/Resources/app/extensions/git/dist/main.js:2:961845)
+    at D.B (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+    at D.C (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:816)
+    at D.fire (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1033)
+    at Object.p [as dispose] (/Applications/Visual Studio Code-2.app/Contents/Resources/app/extensions/git/dist/main.js:2:983333)
+    at /Applications/Visual Studio Code-2.app/Contents/Resources/app/extensions/git/dist/main.js:2:989455
+    at Array.forEach (<anonymous>)
+    at b.dispose (/Applications/Visual Studio Code-2.app/Contents/Resources/app/extensions/git/dist/main.js:2:989441)
+    at V1.<anonymous> (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:19994)
+    at V1.dispose (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20090)
+    at V1.<anonymous> (/Applications/Visual Studio Code-2.app/Contents/Resources/app/extensions/git/dist/main.js:2:964255)
+    at V1.dispose (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20090)
+    at ci (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:699)
+    at file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:14992
+    at file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:1009
+    at Object.dispose (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+    at z_.eb (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11919)
+    at file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9874
+    at Array.map (<anonymous>)
+    at z_.$ (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9862)
+    at z_.terminate (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10105)
+    at EC.terminate (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+    at Zi (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:15084)
+    at MessagePortMain.<anonymous> (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11632)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-11-24 10:25:45.918 [error] Canceled: Canceled
+    at new tT (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:108738)
+    at py.U (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113348)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110842)
+    at Y0.g (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32313)
+    at Y0.executeCommand (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+    at r.registerCommand.description (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31147)
+    at Y0.h (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32833)
+    at Y0.g (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31910)
+    at Y0.executeCommand (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+    at Object.executeCommand (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:37246)
+    at a.VscodeDevShareProvider.set hasGitHubRepositories [as hasGitHubRepositories] (/Applications/Visual Studio Code-2.app/Contents/Resources/app/extensions/github/dist/extension.js:2:328633)
+    at /Applications/Visual Studio Code-2.app/Contents/Resources/app/extensions/github/dist/extension.js:2:329592
+    at mh.value (/Applications/Visual Studio Code-2.app/Contents/Resources/app/extensions/git/dist/main.js:2:1073936)
+    at D.B (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+    at D.C (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:816)
+    at D.fire (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1033)
+    at Object.p [as dispose] (/Applications/Visual Studio Code-2.app/Contents/Resources/app/extensions/git/dist/main.js:2:983333)
+    at /Applications/Visual Studio Code-2.app/Contents/Resources/app/extensions/git/dist/main.js:2:989455
+    at Array.forEach (<anonymous>)
+    at b.dispose (/Applications/Visual Studio Code-2.app/Contents/Resources/app/extensions/git/dist/main.js:2:989441)
+    at V1.<anonymous> (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:19994)
+    at V1.dispose (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20090)
+    at V1.<anonymous> (/Applications/Visual Studio Code-2.app/Contents/Resources/app/extensions/git/dist/main.js:2:964255)
+    at V1.dispose (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20090)
+    at ci (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:699)
+    at file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:14992
+    at file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:1009
+    at Object.dispose (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+    at z_.eb (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11919)
+    at file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9874
+    at Array.map (<anonymous>)
+    at z_.$ (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9862)
+    at z_.terminate (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10105)
+    at EC.terminate (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+    at Zi (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:15084)
+    at MessagePortMain.<anonymous> (file:///Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11632)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-11-24 10:25:45.919 [info] Extension host with pid 3935 exiting with code 0

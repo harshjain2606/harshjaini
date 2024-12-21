@@ -1,0 +1,9 @@
+2024/11/16-11:54:09.645 6903 Reusing MANIFEST /Users/harshjain/Library/Application Support/Docker Desktop/Local Storage/leveldb/MANIFEST-000001
+2024/11/16-11:54:09.645 6903 Recovering log #3
+2024/11/16-11:54:09.645 6903 Reusing old log /Users/harshjain/Library/Application Support/Docker Desktop/Local Storage/leveldb/000003.log 
+2024/11/16-13:17:13.261 a703 Level-0 table #5: started
+2024/11/16-13:17:13.454 a703 Level-0 table #5: 15118 bytes OK
+2024/11/16-13:17:13.461 a703 Delete type=0 #3
+2024/11/16-13:23:53.495 a703 Level-0 table #7: started
+2024/11/16-13:23:53.752 a703 Level-0 table #7: 13841 bytes OK
+2024/11/16-13:23:53.760 a703 Delete type=0 #4

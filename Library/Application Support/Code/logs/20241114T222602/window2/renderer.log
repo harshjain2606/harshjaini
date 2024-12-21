@@ -1,0 +1,25 @@
+2024-11-14 22:26:19.204 [info] Started local extension host with pid 731.
+2024-11-14 22:26:19.378 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-14 22:26:19.378 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-14 22:26:19.556 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: pug
+2024-11-14 22:26:19.556 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: sass
+2024-11-14 22:26:19.556 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: stylus
+2024-11-14 22:26:21.800 [info] [perf] Render performance baseline is 16ms
+2024-11-14 22:32:29.384 [info] Started local extension host with pid 925.
+2024-11-14 22:32:29.626 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-14 22:32:29.626 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-14 22:32:29.646 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: pug
+2024-11-14 22:32:29.646 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: sass
+2024-11-14 22:32:29.646 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: stylus
+2024-11-14 22:32:31.973 [info] [perf] Render performance baseline is 16ms
+2024-11-14 23:44:22.939 [error] TreeError [DebugRepl] Tree input not set: Error: TreeError [DebugRepl] Tree input not set
+    at Yd.C (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:416:30917)
+    at Yd.updateChildren (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:416:30824)
+    at vZ.value (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2054:35241)
+    at x.B (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:30:747)
+    at x.C (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:30:817)
+    at x.fire (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:30:1034)
+    at Fme.setVisible (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:532:2801)
+    at vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:648:11845
+    at Array.map (<anonymous>)
+    at sh.setVisible (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:648:11836)

@@ -1,0 +1,6 @@
+2024-11-15 19:09:28.540 [error] [network] #354: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_NETWORK_CHANGED
+2024-11-15 20:11:14.170 [error] [network] #397: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_CHANGED
+2024-11-15 20:11:16.744 [error] [network] #398: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2024-11-15 21:34:38.914 [error] [network] #401: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_TIMED_OUT
+2024-11-15 22:28:29.963 [error] [network] #405: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_TIMED_OUT
+2024-11-15 22:31:53.290 [error] [network] #406: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_TIMED_OUT

@@ -1,0 +1,40 @@
+{
+	"notifications": [
+		{
+			"guid": "d01b4c9b-620e-4948-891a-ac5b5214b9b2",
+			"timestamp": 1731738286223,
+			"read": false,
+			"displayState": "background",
+			"notification": {
+				"message": "Sign in to share images and collaborate with your team",
+				"icon": "disconnected",
+				"type": "action-result",
+				"operation": "user-log-in",
+				"actionText": "Sign in",
+				"action": {
+					"action": "open-login",
+					"params": {}
+				},
+				"title": "You are signed out"
+			}
+		},
+		{
+			"guid": "03a7c612-347b-499f-9f3d-3b125c9411e2",
+			"timestamp": 1731738498645,
+			"read": false,
+			"displayState": "background",
+			"notification": {
+				"message": "More Docker. Easy Access. New Streamlined Plans.",
+				"icon": "sparkles",
+				"type": "general-purpose",
+				"actionText": "Learn more",
+				"action": {
+					"action": "open-external-url",
+					"params": {
+						"url": "https://www.docker.com/blog/november-2024-updated-plans-announcement/"
+					}
+				}
+			}
+		}
+	]
+}

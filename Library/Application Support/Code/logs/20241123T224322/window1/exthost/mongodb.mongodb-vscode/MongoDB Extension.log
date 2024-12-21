@@ -1,0 +1,114 @@
+2024-11-23 22:43:24.707 [info] 2024-11-23T17:13:24.585Z extension INFO  Activating extension... [
+  {
+    id: 'mongodb.mongodb-vscode',
+    version: '1.9.3',
+    mode: 'Production',
+    kind: 'UI',
+    extensionPath: '/Users/harshjain/.vscode/extensions/mongodb.mongodb-vscode-1.9.3',
+    logPath: '/Users/harshjain/Library/Application Support/Code/logs/20241123T224322/window1/exthost/mongodb.mongodb-vscode',
+    workspaceStoragePath: undefined,
+    globalStoragePath: '/Users/harshjain/Library/Application Support/Code/User/globalStorage/mongodb.mongodb-vscode',
+    defaultConnectionSavingLocation: 'Global',
+    buildInfo: {
+      nodeVersion: 'v20.18.0',
+      runtimePlatform: 'darwin',
+      runtimeArch: 'arm64'
+    }
+  }
+]
+
+2024-11-23 22:43:24.707 [info] 2024-11-23T17:13:24.585Z language server controller INFO  Creating MongoDB Language Server... [
+  {
+    extensionPath: '/Users/harshjain/.vscode/extensions/mongodb.mongodb-vscode-1.9.3',
+    languageServer: {
+      id: 'mongodbLanguageServer',
+      name: 'MongoDB Language Server',
+      path: '/Users/harshjain/.vscode/extensions/mongodb.mongodb-vscode-1.9.3/dist/languageServer.js',
+      documentSelector: '[{"pattern":"**/*.mongodb.js"},{"pattern":"**/*.mongodb"}]'
+    }
+  }
+]
+
+2024-11-23 22:43:24.707 [info] 2024-11-23T17:13:24.590Z telemetry INFO  Segment analytics activated [ { anonymousId: '88f5a618-27ed-4f45-99b4-dc88067b0e53' } ]
+
+2024-11-23 22:43:24.707 [info] 2024-11-23T17:13:24.590Z participant INFO  Chat participant created [ { participantId: 'mongodb.participant' } ]
+
+2024-11-23 22:43:24.707 [info] 2024-11-23T17:13:24.591Z language server controller INFO  Starting the language server... []
+
+2024-11-23 22:43:24.857 [info] 2024-11-23T17:13:24.857Z language server controller INFO  MongoDBService initialized. Sending default settings... {"extensionPath":"/Users/harshjain/.vscode/extensions/mongodb.mongodb-vscode-1.9.3","connectionId":null,"hasConnectionString":false,"hasConnectionOptions":false} []
+
+2024-11-23 22:45:06.535 [info] 2024-11-23T17:15:06.533Z extension INFO  Deactivating extension... []
+
+2024-11-23 22:45:06.535 [info] 2024-11-23T17:15:06.533Z connection controller INFO  Disconnect called, currently connected to [ null ]
+
+2024-11-23 22:45:06.535 [info] 2024-11-23T17:15:06.534Z language server controller INFO  Changing MongoDBService active connection... [ { connectionId: null } ]
+
+2024-11-23 22:45:06.535 [info] 2024-11-23T17:15:06.534Z connection controller ERROR Unable to disconnect: no active connection []
+
+2024-11-23 22:45:06.535 [info] 2024-11-23T17:15:06.535Z connection controller INFO  Disconnect called, currently connected to [ null ]
+
+2024-11-23 22:45:06.535 [info] 2024-11-23T17:15:06.535Z language server controller INFO  Changing MongoDBService active connection... [ { connectionId: null } ]
+
+2024-11-23 22:45:06.536 [info] 2024-11-23T17:15:06.535Z connection controller ERROR Unable to disconnect: no active connection []
+
+2024-11-23 22:45:06.536 [info] 2024-11-23T17:15:06.535Z language server controller INFO  Deactivating the language server... []
+
+2024-11-23 22:45:06.536 [info] 2024-11-23T17:15:06.536Z language server controller INFO  Deactivating the language server... []
+
+2024-11-23 22:45:08.147 [info] 2024-11-23T17:15:08.132Z extension INFO  Activating extension... [
+  {
+    id: 'mongodb.mongodb-vscode',
+    version: '1.9.3',
+    mode: 'Production',
+    kind: 'UI',
+    extensionPath: '/Users/harshjain/.vscode/extensions/mongodb.mongodb-vscode-1.9.3',
+    logPath: '/Users/harshjain/Library/Application Support/Code/logs/20241123T224322/window1/exthost/mongodb.mongodb-vscode',
+    workspaceStoragePath: '/Users/harshjain/Library/Application Support/Code/User/workspaceStorage/07c49b7bc705200ef8ff6d09f26b536e/mongodb.mongodb-vscode',
+    globalStoragePath: '/Users/harshjain/Library/Application Support/Code/User/globalStorage/mongodb.mongodb-vscode',
+    defaultConnectionSavingLocation: 'Global',
+    buildInfo: {
+      nodeVersion: 'v20.18.0',
+      runtimePlatform: 'darwin',
+      runtimeArch: 'arm64'
+    }
+  }
+]
+
+2024-11-23 22:45:08.147 [info] 2024-11-23T17:15:08.133Z language server controller INFO  Creating MongoDB Language Server... [
+  {
+    extensionPath: '/Users/harshjain/.vscode/extensions/mongodb.mongodb-vscode-1.9.3',
+    languageServer: {
+      id: 'mongodbLanguageServer',
+      name: 'MongoDB Language Server',
+      path: '/Users/harshjain/.vscode/extensions/mongodb.mongodb-vscode-1.9.3/dist/languageServer.js',
+      documentSelector: '[{"pattern":"**/*.mongodb.js"},{"pattern":"**/*.mongodb"}]'
+    }
+  }
+]
+
+2024-11-23 22:45:08.147 [info] 2024-11-23T17:15:08.138Z telemetry INFO  Segment analytics activated [ { anonymousId: '88f5a618-27ed-4f45-99b4-dc88067b0e53' } ]
+
+2024-11-23 22:45:08.147 [info] 2024-11-23T17:15:08.138Z participant INFO  Chat participant created [ { participantId: 'mongodb.participant' } ]
+
+2024-11-23 22:45:08.147 [info] 2024-11-23T17:15:08.138Z language server controller INFO  Starting the language server... []
+
+2024-11-23 22:45:08.383 [info] 2024-11-23T17:15:08.383Z language server controller INFO  MongoDBService initialized. Sending default settings... {"extensionPath":"/Users/harshjain/.vscode/extensions/mongodb.mongodb-vscode-1.9.3","connectionId":null,"hasConnectionString":false,"hasConnectionOptions":false} []
+
+2024-11-23 23:39:36.482 [info] 2024-11-23T18:09:36.479Z extension INFO  Deactivating extension... []
+
+2024-11-23 23:39:36.482 [info] 2024-11-23T18:09:36.479Z connection controller INFO  Disconnect called, currently connected to [ null ]
+
+2024-11-23 23:39:36.482 [info] 2024-11-23T18:09:36.480Z language server controller INFO  Changing MongoDBService active connection... [ { connectionId: null } ]
+
+2024-11-23 23:39:36.482 [info] 2024-11-23T18:09:36.480Z connection controller ERROR Unable to disconnect: no active connection []
+
+2024-11-23 23:39:36.482 [info] 2024-11-23T18:09:36.481Z connection controller INFO  Disconnect called, currently connected to [ null ]
+
+2024-11-23 23:39:36.482 [info] 2024-11-23T18:09:36.481Z language server controller INFO  Changing MongoDBService active connection... [ { connectionId: null } ]
+
+2024-11-23 23:39:36.482 [info] 2024-11-23T18:09:36.481Z connection controller ERROR Unable to disconnect: no active connection []
+
+2024-11-23 23:39:36.482 [info] 2024-11-23T18:09:36.482Z language server controller INFO  Deactivating the language server... []
+
+2024-11-23 23:39:36.482 [info] 2024-11-23T18:09:36.482Z language server controller INFO  Deactivating the language server... []
+

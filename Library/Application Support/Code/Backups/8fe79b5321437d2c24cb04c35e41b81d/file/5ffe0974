@@ -1,0 +1,2 @@
+file:///Users/harshjain/ecommerce-project/.env {"mtime":1732424614260,"ctime":1732424614260,"size":0,"etag":"3dcegpp620","orphaned":false,"typeId":""}
+MONGO_URI= 'mongodb://localhost:27017/my-app'

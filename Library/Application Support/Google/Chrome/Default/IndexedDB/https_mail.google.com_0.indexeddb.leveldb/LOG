@@ -1,0 +1,6 @@
+2024/11/12-22:12:13.511 f703 Reusing MANIFEST /Users/harshjain/Library/Application Support/Google/Chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/12-22:12:13.511 f703 Recovering log #3
+2024/11/12-22:12:13.516 f703 Reusing old log /Users/harshjain/Library/Application Support/Google/Chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2024/11/12-22:12:20.160 fb03 Level-0 table #5: started
+2024/11/12-22:12:20.178 fb03 Level-0 table #5: 3007982 bytes OK
+2024/11/12-22:12:20.188 fb03 Delete type=0 #3

@@ -1,0 +1,7 @@
+2024/11/08-19:43:57.965 a403 Creating DB /Users/harshjain/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.frnsup.com_0.indexeddb.leveldb since it was missing.
+2024/11/08-19:43:57.978 a403 Reusing MANIFEST /Users/harshjain/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.frnsup.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/08-19:43:57.989 b203 Level-0 table #5: started
+2024/11/08-19:43:57.997 b203 Level-0 table #5: 661 bytes OK
+2024/11/08-19:43:58.010 b203 Delete type=0 #3
+2024/11/08-19:43:58.011 b203 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/08-19:43:58.014 b203 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

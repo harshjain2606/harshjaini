@@ -1,0 +1,21 @@
+2024-11-15 11:22:59.675 [info] update#setState idle
+2024-11-15 11:23:29.555 [info] update#setState checking for updates
+2024-11-15 11:23:29.768 [info] update#setState downloading
+2024-11-15 11:24:10.192 [info] update#setState downloaded
+2024-11-15 11:24:10.198 [info] update#setState ready
+2024-11-15 11:41:25.452 [error] [UtilityProcessWorker]: terminated unexpectedly with code 35407360, signal: unknown
+2024-11-15 11:41:25.454 [info] Extension host with pid 6055 exited with code: 0, signal: unknown.
+2024-11-15 13:27:45.204 [info] Extension host with pid 6314 exited with code: 0, signal: unknown.
+2024-11-15 13:43:53.060 [warning] No ptyHost heartbeat after 6 seconds
+2024-11-15 18:28:36.009 [info] Extension host with pid 10863 exited with code: 0, signal: unknown.
+2024-11-15 19:47:39.155 [info] Extension host with pid 11847 exited with code: 0, signal: unknown.
+2024-11-15 19:47:39.295 [error] [UtilityProcessWorker]: terminated unexpectedly with code 32763904, signal: unknown
+2024-11-15 20:11:07.999 [info] Extension host with pid 19374 exited with code: 0, signal: unknown.
+2024-11-15 20:11:08.134 [error] [UtilityProcessWorker]: terminated unexpectedly with code 35445120, signal: unknown
+2024-11-15 20:11:42.995 [warning] No ptyHost heartbeat after 6 seconds
+2024-11-15 21:01:49.305 [warning] No ptyHost heartbeat after 6 seconds
+2024-11-15 21:18:11.033 [warning] No ptyHost heartbeat after 6 seconds
+2024-11-15 21:34:03.745 [warning] No ptyHost heartbeat after 6 seconds
+2024-11-15 22:10:54.722 [warning] No ptyHost heartbeat after 6 seconds
+2024-11-15 22:12:11.429 [warning] No ptyHost heartbeat after 6 seconds
+2024-11-15 22:28:29.963 [warning] No ptyHost heartbeat after 6 seconds

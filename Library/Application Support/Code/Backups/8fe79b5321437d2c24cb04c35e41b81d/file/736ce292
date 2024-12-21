@@ -1,0 +1,15 @@
+file:///Users/harshjain/ecommerce-project/ecommerce-frontend/src/routes/PrivateRoute.js {"mtime":1732426991273,"ctime":1732426991273,"size":0,"etag":"3dcek79i10","orphaned":false,"typeId":""}
+import React from 'react';
+import { Navigate } from 'react-router-dom';
+
+const PrivateRoute = ({ children, role }) => {
+  const token = localStorage.getItem('token');
+  const userRole = localStorage.getItem('role');
+
+  if (!token || (role && role !== userRole)) {
+    return <Navigate to="/login" />;
+  }
+  return children;
+};
+
+export default PrivateRoute;

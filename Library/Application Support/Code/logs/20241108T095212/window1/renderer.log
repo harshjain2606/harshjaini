@@ -1,0 +1,6 @@
+2024-11-08 09:52:13.452 [info] Started local extension host with pid 1320.
+2024-11-08 09:52:14.015 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: pug
+2024-11-08 09:52:14.015 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: sass
+2024-11-08 09:52:14.015 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: stylus
+2024-11-08 09:52:16.765 [info] [perf] Render performance baseline is 25ms
+2024-11-08 09:52:41.837 [warning] [backup tracker] suspended, ignoring dirty change event file:///Users/harshjain/Downloads/p3.py 

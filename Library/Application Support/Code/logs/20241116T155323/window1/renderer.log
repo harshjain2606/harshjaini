@@ -1,0 +1,18 @@
+2024-11-16 15:53:24.040 [info] Started local extension host with pid 34327.
+2024-11-16 15:53:24.228 [info] Settings Sync: Updating due to initialize
+2024-11-16 15:53:24.228 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-16 15:53:24.228 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-16 15:53:24.326 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: pug
+2024-11-16 15:53:24.326 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: sass
+2024-11-16 15:53:24.326 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: stylus
+2024-11-16 15:53:26.848 [info] [perf] Render performance baseline is 21ms
+2024-11-16 15:53:42.636 [info] Started local extension host with pid 34388.
+2024-11-16 15:53:42.790 [info] Settings Sync: Updating due to initialize
+2024-11-16 15:53:42.790 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-16 15:53:42.790 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-16 15:53:42.887 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: pug
+2024-11-16 15:53:42.887 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: sass
+2024-11-16 15:53:42.887 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: stylus
+2024-11-16 15:53:45.208 [info] [perf] Render performance baseline is 19ms
+2024-11-16 22:56:13.064 [warning] [backup tracker] suspended, ignoring dirty change event file:///Users/harshjain/New/docker-compose.yml 
+2024-11-16 22:56:13.069 [warning] [backup tracker] suspended, ignoring dirty change event file:///Users/harshjain/New/polling-system/server.js 

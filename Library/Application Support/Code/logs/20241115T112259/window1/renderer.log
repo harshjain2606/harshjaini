@@ -1,0 +1,32 @@
+2024-11-15 11:23:00.194 [info] Started local extension host with pid 6055.
+2024-11-15 11:23:00.394 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-15 11:23:00.394 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-15 11:23:00.402 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: pug
+2024-11-15 11:23:00.402 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: sass
+2024-11-15 11:23:00.402 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: stylus
+2024-11-15 11:23:02.812 [info] [perf] Render performance baseline is 19ms
+2024-11-15 11:25:50.364 [info] Settings Sync: Updating due to change in sessions
+2024-11-15 11:25:50.366 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-15 11:25:50.366 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-15 11:25:50.367 [info] Settings Sync: Updating due to change in sessions
+2024-11-15 11:25:50.367 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-15 11:25:50.367 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-15 11:41:25.742 [info] Started local extension host with pid 6314.
+2024-11-15 11:41:25.905 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-15 11:41:25.905 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-15 11:41:26.022 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: pug
+2024-11-15 11:41:26.022 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: sass
+2024-11-15 11:41:26.022 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: stylus
+2024-11-15 11:41:28.337 [info] [perf] Render performance baseline is 16ms
+2024-11-15 11:41:52.412 [error] lock() request could not be registered.: Error: lock() request could not be registered.
+2024-11-15 12:01:19.846 [error] File seems to be binary and cannot be opened as text: Error: File seems to be binary and cannot be opened as text
+    at Gnt.M (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3089:9267)
+    at async Gnt.readStream (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3089:8894)
+    at async Pde.Db (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1275:11960)
+    at async Pde.resolve (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1275:10435)
+    at async Unt.W (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3089:5752)
+    at async tWe.r (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1275:20910)
+    at async qpi.acquire (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:25:3125)
+    at async iWe.createModelReference (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1275:22466)
+    at async Promise.all (index 1)
+    at async Smt.c (vscode-file://vscode-app/Applications/Visual%20Studio%20Code-2.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:627:21475)

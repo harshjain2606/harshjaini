@@ -1,0 +1,257 @@
+2024-11-15 11:23:00.772 [info] [main] Log level: Info
+2024-11-15 11:23:00.772 [info] [main] Validating found git in: "/opt/homebrew/bin/git"
+2024-11-15 11:23:00.805 [info] [main] Using git "2.47.0" from "/opt/homebrew/bin/git"
+2024-11-15 11:23:00.805 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-15 11:23:00.807 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-15 11:41:26.386 [info] [main] Log level: Info
+2024-11-15 11:41:26.386 [info] [main] Validating found git in: "/opt/homebrew/bin/git"
+2024-11-15 11:41:26.419 [info] [main] Using git "2.47.0" from "/opt/homebrew/bin/git"
+2024-11-15 11:41:26.419 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-15 11:41:26.435 [info] > git rev-parse --show-toplevel [12ms]
+2024-11-15 11:41:26.441 [info] > git rev-parse --git-dir --git-common-dir [6ms]
+2024-11-15 11:41:26.446 [info] [Model][openRepository] Opened repository: /Users/harshjain/Downloads
+2024-11-15 11:41:26.449 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-15 11:41:26.461 [info] > git config --get commit.template [14ms]
+2024-11-15 11:41:26.467 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [17ms]
+2024-11-15 11:41:26.467 [warning] [Git][getBranch] No such branch: main
+2024-11-15 11:41:26.469 [info] > git rev-parse --show-toplevel [21ms]
+2024-11-15 11:41:27.231 [info] > git status -z -uall [763ms]
+2024-11-15 11:41:27.231 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [762ms]
+2024-11-15 11:41:27.262 [info] > git rev-parse --show-toplevel [792ms]
+2024-11-15 11:41:27.264 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-15 11:41:27.271 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [10ms]
+2024-11-15 11:41:27.271 [warning] [Git][getBranch] No such branch: main
+2024-11-15 11:41:27.271 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for main: Error: No such branch: main.
+2024-11-15 11:41:27.273 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-15 11:41:27.276 [info] > git config --get commit.template [10ms]
+2024-11-15 11:41:27.279 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [6ms]
+2024-11-15 11:41:27.279 [warning] [Git][getBranch] No such branch: main
+2024-11-15 11:41:27.286 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2024-11-15 11:41:27.299 [info] > git status -z -uall [19ms]
+2024-11-15 11:41:30.131 [info] > git check-ignore -v -z --stdin [21ms]
+2024-11-15 11:41:31.735 [info] > git check-ignore -v -z --stdin [17ms]
+2024-11-15 11:41:32.570 [info] > git check-ignore -v -z --stdin [19ms]
+2024-11-15 11:41:33.252 [info] > git check-ignore -v -z --stdin [18ms]
+2024-11-15 11:41:39.481 [info] > git ls-files --stage -- /Users/harshjain/Downloads/Find-Best-main/Frontend/public/manifest.json [8ms]
+2024-11-15 11:41:39.482 [info] > git show --textconv :Find-Best-main/Frontend/public/manifest.json [9ms]
+2024-11-15 11:41:44.371 [info] > git check-ignore -v -z --stdin [25ms]
+2024-11-15 11:41:45.338 [info] > git check-ignore -v -z --stdin [22ms]
+2024-11-15 11:41:46.171 [info] > git check-ignore -v -z --stdin [19ms]
+2024-11-15 11:41:47.484 [info] > git show --textconv :Find-Best-main/Backend/Categories/ClothingWebsites/AjioModule.js [11ms]
+2024-11-15 11:41:47.485 [info] > git ls-files --stage -- /Users/harshjain/Downloads/Find-Best-main/Backend/Categories/ClothingWebsites/AjioModule.js [12ms]
+2024-11-15 11:41:48.531 [info] > git ls-files --stage -- /Users/harshjain/Downloads/Find-Best-main/Backend/Categories/ClothingWebsites/MyntraModule.js [6ms]
+2024-11-15 11:41:48.531 [info] > git show --textconv :Find-Best-main/Backend/Categories/ClothingWebsites/MyntraModule.js [7ms]
+2024-11-15 11:42:51.065 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-15 11:42:51.094 [info] > git config --get commit.template [30ms]
+2024-11-15 11:42:51.095 [info] > git check-ignore -v -z --stdin [27ms]
+2024-11-15 11:42:51.097 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [30ms]
+2024-11-15 11:42:51.097 [warning] [Git][getBranch] No such branch: main
+2024-11-15 11:42:51.108 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+2024-11-15 11:42:51.143 [info] > git status -z -uall [45ms]
+2024-11-15 11:43:39.077 [info] > git ls-files --stage -- /Users/harshjain/Downloads/Find-Best-main/Backend/vercel.json [28ms]
+2024-11-15 11:43:39.078 [info] > git show --textconv :Find-Best-main/Backend/vercel.json [30ms]
+2024-11-15 11:44:29.735 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [32ms]
+2024-11-15 11:44:29.736 [info] fatal: bad revision 'refs/heads/main'
+2024-11-15 11:44:29.736 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["refs/heads/main"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/heads/main'\n"
+}
+2024-11-15 11:44:30.327 [info] > git check-ignore -v -z --stdin [19ms]
+2024-11-15 11:44:32.713 [info] > git check-ignore -v -z --stdin [18ms]
+2024-11-15 11:44:45.068 [info] > git check-ignore -v -z --stdin [22ms]
+2024-11-15 11:57:16.194 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-15 11:57:16.225 [info] > git config --get commit.template [32ms]
+2024-11-15 11:57:16.229 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [34ms]
+2024-11-15 11:57:16.229 [warning] [Git][getBranch] No such branch: main
+2024-11-15 11:57:16.241 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+2024-11-15 11:57:16.275 [info] > git status -z -uall [45ms]
+2024-11-15 11:57:43.803 [info] > git ls-files --stage -- /Users/harshjain/Downloads/Find-Best-main/Backend/server.js [18ms]
+2024-11-15 11:57:43.803 [info] > git show --textconv :Find-Best-main/Backend/server.js [20ms]
+2024-11-15 11:57:54.445 [info] > git ls-files --stage -- /Users/harshjain/Downloads/Find-Best-main/Backend/package.json [37ms]
+2024-11-15 11:57:54.447 [info] > git show --textconv :Find-Best-main/Backend/package.json [41ms]
+2024-11-15 11:58:46.029 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [25ms]
+2024-11-15 11:58:46.029 [info] fatal: bad revision 'refs/heads/main'
+2024-11-15 11:58:46.029 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["refs/heads/main"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/heads/main'\n"
+}
+2024-11-15 11:59:09.408 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [54ms]
+2024-11-15 11:59:09.408 [info] fatal: bad revision 'refs/heads/main'
+2024-11-15 11:59:09.409 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["refs/heads/main"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/heads/main'\n"
+}
+2024-11-15 11:59:21.883 [info] > git add -A -- . [62ms]
+2024-11-15 11:59:21.883 [info] error: 'Find-Best-main/' does not have a commit checked out
+fatal: adding files failed
+2024-11-15 11:59:21.884 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-15 11:59:21.891 [info] > git config --get commit.template [7ms]
+2024-11-15 11:59:21.891 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [7ms]
+2024-11-15 11:59:21.891 [warning] [Git][getBranch] No such branch: main
+2024-11-15 11:59:21.898 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2024-11-15 11:59:21.911 [info] > git status -z -uall [19ms]
+2024-11-15 11:59:30.198 [info] > git add -A -- . [44ms]
+2024-11-15 11:59:30.198 [info] error: 'Find-Best-main/' does not have a commit checked out
+fatal: adding files failed
+2024-11-15 11:59:30.199 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-15 11:59:30.209 [info] > git config --get commit.template [10ms]
+2024-11-15 11:59:30.209 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [10ms]
+2024-11-15 11:59:30.209 [warning] [Git][getBranch] No such branch: main
+2024-11-15 11:59:30.222 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+2024-11-15 11:59:30.235 [info] > git status -z -uall [25ms]
+2024-11-15 12:00:04.863 [info] > git add -A -- . [73ms]
+2024-11-15 12:00:04.863 [info] error: 'Find-Best-main/' does not have a commit checked out
+fatal: adding files failed
+2024-11-15 12:00:04.864 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-15 12:00:04.871 [info] > git config --get commit.template [7ms]
+2024-11-15 12:00:04.872 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [8ms]
+2024-11-15 12:00:04.872 [warning] [Git][getBranch] No such branch: main
+2024-11-15 12:00:04.879 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2024-11-15 12:00:04.892 [info] > git status -z -uall [20ms]
+2024-11-15 12:00:11.293 [info] > git add -A -- . [42ms]
+2024-11-15 12:00:11.293 [info] error: 'Find-Best-main/' does not have a commit checked out
+fatal: adding files failed
+2024-11-15 12:00:11.294 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-15 12:00:11.303 [info] > git config --get commit.template [9ms]
+2024-11-15 12:00:11.303 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [9ms]
+2024-11-15 12:00:11.303 [warning] [Git][getBranch] No such branch: main
+2024-11-15 12:00:11.313 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+2024-11-15 12:00:11.327 [info] > git status -z -uall [23ms]
+2024-11-15 12:00:31.842 [info] > git add -A -- . [41ms]
+2024-11-15 12:00:31.842 [info] error: 'Find-Best-main/' does not have a commit checked out
+fatal: adding files failed
+2024-11-15 12:00:31.843 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-15 12:00:31.849 [info] > git config --get commit.template [6ms]
+2024-11-15 12:00:31.850 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [7ms]
+2024-11-15 12:00:31.850 [warning] [Git][getBranch] No such branch: main
+2024-11-15 12:00:31.857 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2024-11-15 12:00:31.869 [info] > git status -z -uall [19ms]
+2024-11-15 12:00:44.109 [info] > git add -A -- . [75ms]
+2024-11-15 12:00:44.109 [info] error: 'Find-Best-main/' does not have a commit checked out
+fatal: adding files failed
+2024-11-15 12:00:44.110 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-15 12:00:44.117 [info] > git config --get commit.template [7ms]
+2024-11-15 12:00:44.117 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [7ms]
+2024-11-15 12:00:44.117 [warning] [Git][getBranch] No such branch: main
+2024-11-15 12:00:44.128 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+2024-11-15 12:00:44.164 [info] > git status -z -uall [46ms]
+2024-11-15 12:01:07.303 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [27ms]
+2024-11-15 12:01:07.303 [info] fatal: bad revision 'refs/heads/main'
+2024-11-15 12:01:07.303 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["refs/heads/main"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/heads/main'\n"
+}
+2024-11-15 12:01:12.874 [info] > git add -A -- /Users/harshjain/Downloads/.DS_Store /Users/harshjain/Downloads/HarshJainNsutResumee.pdf /Users/harshjain/Downloads/mongodb-compass-1.44.6-darwin-arm64.dmg [9ms]
+2024-11-15 12:01:12.874 [info] fatal: Unable to create '/Users/harshjain/Downloads/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-11-15 12:01:12.935 [info] > git add -A -- /Users/harshjain/Downloads/.DS_Store /Users/harshjain/Downloads/HarshJainNsutResumee.pdf /Users/harshjain/Downloads/mongodb-compass-1.44.6-darwin-arm64.dmg [6ms]
+2024-11-15 12:01:12.935 [info] fatal: Unable to create '/Users/harshjain/Downloads/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-11-15 12:01:13.147 [info] > git add -A -- /Users/harshjain/Downloads/.DS_Store /Users/harshjain/Downloads/HarshJainNsutResumee.pdf /Users/harshjain/Downloads/mongodb-compass-1.44.6-darwin-arm64.dmg [6ms]
+2024-11-15 12:01:13.147 [info] fatal: Unable to create '/Users/harshjain/Downloads/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-11-15 12:01:13.608 [info] > git add -A -- /Users/harshjain/Downloads/.DS_Store /Users/harshjain/Downloads/HarshJainNsutResumee.pdf /Users/harshjain/Downloads/mongodb-compass-1.44.6-darwin-arm64.dmg [6ms]
+2024-11-15 12:01:13.608 [info] fatal: Unable to create '/Users/harshjain/Downloads/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-11-15 12:01:14.421 [info] > git add -A -- /Users/harshjain/Downloads/.DS_Store /Users/harshjain/Downloads/HarshJainNsutResumee.pdf /Users/harshjain/Downloads/mongodb-compass-1.44.6-darwin-arm64.dmg [7ms]
+2024-11-15 12:01:14.421 [info] fatal: Unable to create '/Users/harshjain/Downloads/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-11-15 12:01:15.596 [info] > git add -A -- /Users/harshjain/Downloads/.DS_Store /Users/harshjain/Downloads/HarshJainNsutResumee.pdf /Users/harshjain/Downloads/mongodb-compass-1.44.6-darwin-arm64.dmg [3636ms]
+2024-11-15 12:01:15.597 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-15 12:01:15.604 [info] > git config --get commit.template [7ms]
+2024-11-15 12:01:15.605 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [8ms]
+2024-11-15 12:01:15.606 [warning] [Git][getBranch] No such branch: main
+2024-11-15 12:01:15.630 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [23ms]
+2024-11-15 12:01:15.659 [info] > git status -z -uall [53ms]
+2024-11-15 12:01:15.680 [info] > git add -A -- /Users/harshjain/Downloads/.DS_Store /Users/harshjain/Downloads/HarshJainNsutResumee.pdf /Users/harshjain/Downloads/mongodb-compass-1.44.6-darwin-arm64.dmg [6ms]
+2024-11-15 12:01:15.682 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-15 12:01:15.688 [info] > git config --get commit.template [7ms]
+2024-11-15 12:01:15.688 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [6ms]
+2024-11-15 12:01:15.688 [warning] [Git][getBranch] No such branch: main
+2024-11-15 12:01:15.695 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2024-11-15 12:01:15.707 [info] > git status -z -uall [18ms]
+2024-11-15 12:01:16.791 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-15 12:01:16.811 [info] > git config --get commit.template [21ms]
+2024-11-15 12:01:16.812 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [20ms]
+2024-11-15 12:01:16.812 [warning] [Git][getBranch] No such branch: main
+2024-11-15 12:01:16.826 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]
+2024-11-15 12:01:16.848 [info] > git status -z -uall [35ms]
+2024-11-15 12:01:19.813 [info] > git show --textconv HEAD:HarshJainNsutResumee.pdf [23ms]
+2024-11-15 12:01:19.813 [info] > git show --textconv HEAD:mongodb-compass-1.44.6-darwin-arm64.dmg [21ms]
+2024-11-15 12:01:19.814 [info] > git show --textconv HEAD:.DS_Store [26ms]
+2024-11-15 12:01:19.814 [info] > git show --textconv :.DS_Store [25ms]
+2024-11-15 12:01:19.817 [info] > git ls-tree -l HEAD -- /Users/harshjain/Downloads/.DS_Store [22ms]
+2024-11-15 12:01:19.817 [info] fatal: Not a valid object name HEAD
+2024-11-15 12:01:19.817 [info] > git ls-files --stage -- /Users/harshjain/Downloads/.DS_Store [20ms]
+2024-11-15 12:01:19.818 [info] > git ls-files --stage -- /Users/harshjain/Downloads/HarshJainNsutResumee.pdf [18ms]
+2024-11-15 12:01:19.819 [info] > git ls-tree -l HEAD -- /Users/harshjain/Downloads/HarshJainNsutResumee.pdf [20ms]
+2024-11-15 12:01:19.819 [info] fatal: Not a valid object name HEAD
+2024-11-15 12:01:19.820 [info] > git ls-files --stage -- /Users/harshjain/Downloads/mongodb-compass-1.44.6-darwin-arm64.dmg [18ms]
+2024-11-15 12:01:19.824 [info] > git show --textconv :HarshJainNsutResumee.pdf [33ms]
+2024-11-15 12:01:19.825 [info] > git ls-tree -l HEAD -- /Users/harshjain/Downloads/mongodb-compass-1.44.6-darwin-arm64.dmg [24ms]
+2024-11-15 12:01:19.825 [info] fatal: Not a valid object name HEAD
+2024-11-15 12:01:19.830 [info] > git cat-file -s 2c799df61752527d185c9c8987402e6a03bd7de7 [11ms]
+2024-11-15 12:01:19.830 [info] > git cat-file -s 6e88b65de15c6a68b79bb407bbd72c8211c8a365 [12ms]
+2024-11-15 12:01:19.831 [info] > git cat-file -s 58083a019d79983c17364e2a5b2df7ac986a56a8 [11ms]
+2024-11-15 12:01:20.422 [info] > git show --textconv :mongodb-compass-1.44.6-darwin-arm64.dmg [629ms]
+2024-11-15 12:01:41.403 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [27ms]
+2024-11-15 12:01:41.403 [info] fatal: bad revision 'refs/heads/main'
+2024-11-15 12:01:41.404 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["refs/heads/main"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/heads/main'\n"
+}
+2024-11-15 12:05:17.948 [info] > git ls-files --stage -- /Users/harshjain/Downloads/HarshJainNsutResumee.pdf [28ms]
+2024-11-15 12:05:17.950 [info] > git ls-tree -l HEAD -- /Users/harshjain/Downloads/HarshJainNsutResumee.pdf [32ms]
+2024-11-15 12:05:17.950 [info] fatal: Not a valid object name HEAD
+2024-11-15 12:05:17.959 [info] > git cat-file -s 2c799df61752527d185c9c8987402e6a03bd7de7 [10ms]
+2024-11-15 12:14:37.006 [info] > git ls-files --stage -- /Users/harshjain/Downloads/HarshJainNsutResumee.pdf [29ms]
+2024-11-15 12:14:37.008 [info] > git ls-tree -l HEAD -- /Users/harshjain/Downloads/HarshJainNsutResumee.pdf [32ms]
+2024-11-15 12:14:37.008 [info] fatal: Not a valid object name HEAD
+2024-11-15 12:14:37.019 [info] > git cat-file -s 2c799df61752527d185c9c8987402e6a03bd7de7 [12ms]
+2024-11-15 12:14:41.556 [info] > git ls-files --stage -- /Users/harshjain/Downloads/Find-Best-main/Backend/Categories/GroceryWebsites/FrugivoreModule.js [9ms]
+2024-11-15 12:14:41.557 [info] > git show --textconv :Find-Best-main/Backend/Categories/GroceryWebsites/FrugivoreModule.js [11ms]
+2024-11-15 12:32:40.729 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-15 12:32:40.740 [info] > git config --get commit.template [20ms]
+2024-11-15 12:32:40.741 [info] > git ls-files --stage -- /Users/harshjain/Downloads/HarshJainNsutResumee.pdf [16ms]
+2024-11-15 12:32:40.741 [info] > git ls-tree -l HEAD -- /Users/harshjain/Downloads/HarshJainNsutResumee.pdf [17ms]
+2024-11-15 12:32:40.741 [info] fatal: Not a valid object name HEAD
+2024-11-15 12:32:40.746 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [18ms]
+2024-11-15 12:32:40.747 [warning] [Git][getBranch] No such branch: main
+2024-11-15 12:32:40.754 [info] > git cat-file -s 2c799df61752527d185c9c8987402e6a03bd7de7 [13ms]
+2024-11-15 12:32:40.758 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+2024-11-15 12:32:40.789 [info] > git status -z -uall [42ms]

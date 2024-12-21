@@ -1,0 +1,10 @@
+2024-11-09 18:53:52.277 [info] Started local extension host with pid 11689.
+2024-11-09 18:53:52.477 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: pug
+2024-11-09 18:53:52.477 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: sass
+2024-11-09 18:53:52.477 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: stylus
+2024-11-09 18:53:55.064 [info] [perf] Render performance baseline is 20ms
+2024-11-09 18:59:51.474 [info] Started local extension host with pid 11806.
+2024-11-09 18:59:53.979 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: pug
+2024-11-09 18:59:53.979 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: sass
+2024-11-09 18:59:53.979 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: stylus
+2024-11-09 18:59:54.038 [info] [perf] Render performance baseline is 17ms

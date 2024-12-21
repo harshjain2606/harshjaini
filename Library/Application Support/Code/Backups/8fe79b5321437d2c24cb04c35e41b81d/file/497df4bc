@@ -1,0 +1,19 @@
+file:///Users/harshjain/ecommerce-project/models/User.js {"mtime":1732424306476,"ctime":1732424306476,"size":0,"etag":"3dcegd76o0","orphaned":false,"typeId":""}
+const mongoose = require('mongoose');
+const bcrypt = require('bcrypt');
+
+const userSchema = new mongoose.Schema({
+  name: { type: String, required: true },
+  email: { type: String, required: true, unique: true },
+  password: { type: String, required: true },
+  role: { type: String, enum: ['customer', 'seller', 'admin'], required: true },
+}, { timestamps: true });
+
+// Hash password before saving
+userSchema.pre('save', async function (next) {
+  if (!this.isModified('password')) return next();
+  this.password = await bcrypt.hash(this.password, 10);
+  next();
+});
+
+module.exports = mongoose.model('User', userSchema);

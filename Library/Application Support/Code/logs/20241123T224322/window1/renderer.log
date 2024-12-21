@@ -1,0 +1,25 @@
+2024-11-23 22:43:23.073 [info] Started local extension host with pid 67785.
+2024-11-23 22:43:23.258 [info] Settings Sync: Updating due to initialize
+2024-11-23 22:43:23.258 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-23 22:43:23.258 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-23 22:43:23.341 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: pug
+2024-11-23 22:43:23.341 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: sass
+2024-11-23 22:43:23.341 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: stylus
+2024-11-23 22:43:25.701 [info] [perf] Render performance baseline is 16ms
+2024-11-23 22:45:06.804 [info] Started local extension host with pid 67885.
+2024-11-23 22:45:06.958 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: pug
+2024-11-23 22:45:06.958 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: sass
+2024-11-23 22:45:06.958 [error] [wscats.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: stylus
+2024-11-23 22:45:07.003 [info] Settings Sync: Updating due to initialize
+2024-11-23 22:45:07.004 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-23 22:45:07.004 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-23 22:45:09.393 [info] [perf] Render performance baseline is 17ms
+2024-11-23 23:39:34.352 [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.backups
+2024-11-23 23:39:36.415 [warning] [backup tracker] suspended, ignoring dirty change event file:///Users/harshjain/e-commerce-project/.env 
+2024-11-23 23:39:36.423 [warning] [backup tracker] suspended, ignoring dirty change event file:///Users/harshjain/e-commerce-project/frontend/index.js 
+2024-11-23 23:39:36.424 [warning] [backup tracker] suspended, ignoring dirty change event file:///Users/harshjain/e-commerce-project/server.js 
+2024-11-23 23:39:36.427 [warning] [backup tracker] suspended, ignoring dirty change event file:///Users/harshjain/e-commerce-project/routes/customer.js 
+2024-11-23 23:39:36.427 [warning] [backup tracker] suspended, ignoring dirty change event file:///Users/harshjain/e-commerce-project/middleware/auth.js 
+2024-11-23 23:39:36.428 [warning] [backup tracker] suspended, ignoring dirty change event file:///Users/harshjain/e-commerce-project/routes/seller.js 
+2024-11-23 23:39:36.429 [warning] [backup tracker] suspended, ignoring dirty change event file:///Users/harshjain/e-commerce-project/models/User.js 
+2024-11-23 23:39:36.429 [warning] [backup tracker] suspended, ignoring dirty change event file:///Users/harshjain/e-commerce-project/routes/admin.js 
